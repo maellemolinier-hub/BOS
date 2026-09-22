@@ -1,6 +1,6 @@
 # Skill: Traffic
 
-Mettre en place **un** canal d'acquisition qui génère des leads de façon répétable. Déclenché quand `diagnosis` identifie un problème de trafic en phase PMF — pas assez de monde au sommet du funnel, ou pas de canal actif.
+Mettre en place **un** canal d'acquisition qui génère des leads de façon répétable. Déclenché quand `omniroute` identifie un problème de trafic en phase PMF — pas assez de monde au sommet du funnel, ou pas de canal actif.
 
 La plupart des entrepreneurs « font un peu de tout » et ne collectent jamais assez de données sur un levier. Ce skill impose la discipline inverse : **un canal, 90 jours**, avec BOS qui produit la majorité des livrables (copy, structure, analyse).
 

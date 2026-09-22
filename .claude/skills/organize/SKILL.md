@@ -1,6 +1,6 @@
 # Skill: Organize
 
-Structurer ou restructurer le plan d'action. Clôturer ce qui a été fait, identifier les problèmes actuels, produire un plan d'action clair avec répartition BOS/entrepreneur. Se déclenche régulièrement ou à la demande.
+Structurer ou restructurer le plan d'action. Clôturer ce qui a été fait, identifier les problèmes actuels, produire un plan d'action clair avec répartition BOS/entrepreneur. Route de destination d'`omniroute` (voir `.claude/skills/omniroute/SKILL.md` Phase 1) quand un de ses triggers matche.
 
 ## Objectif
 
@@ -11,7 +11,7 @@ En 15-20 min : faire le point (ce qui s'est passé, ce qui a bougé, ce qui non)
 - 3+ jours depuis le dernier plan / dernier Journal entry
 - L'entrepreneur est perdu, ne sait plus quoi faire
 - L'entrepreneur demande de s'organiser / « c'est quoi la suite ? »
-- Post-diagnostic (`diagnosis` vient de router)
+- Post-diagnostic (`omniroute` vient de router après un diagnostic complet)
 - Post-choix de business (`find` vient de terminer)
 - BOS détecte que le contexte a significativement changé
 
@@ -31,7 +31,7 @@ En 15-20 min : faire le point (ce qui s'est passé, ce qui a bougé, ce qui non)
 
 ### Phase 1 — Revue (si contexte existant, sinon skip)
 
-Si c'est le premier plan (post-`find` ou post-`diagnosis` initial), sauter directement à Phase 2.
+Si c'est le premier plan (post-`find` ou post-diagnostic initial via `omniroute`), sauter directement à Phase 2.
 
 Si l'entrepreneur a déjà un historique :
 
@@ -60,9 +60,9 @@ Adapter selon la phase de l'entrepreneur :
 
 **Phase Find :** Avancement de la recherche, deadline 7j, progression vers le choix.
 
-**Phase PMF :** (1) regarder ventes — CA, leads, conversion, satisfaction ; (2) si insuffisant → quelle dimension ? (Trafic / Offre / Funnel) ; (3) **un seul** changement pour le prochain cycle ; (4) tester ≥ 1 semaine ; (5) réévaluer au prochain organize. Si la dimension bottleneck a changé → re-router via `diagnosis`.
+**Phase PMF :** (1) regarder ventes — CA, leads, conversion, satisfaction ; (2) si insuffisant → quelle dimension ? (Trafic / Offre / Funnel) ; (3) **un seul** changement pour le prochain cycle ; (4) tester ≥ 1 semaine ; (5) réévaluer au prochain organize. Si la dimension bottleneck a changé → re-router via `omniroute`.
 
-**Phase Scale :** Progression roadmap 90j, KPIs du palier, bottleneck type (Mindset / Chase / Digestion) toujours le bon ? Si le bottleneck a changé → re-router via `diagnosis`.
+**Phase Scale :** Progression roadmap 90j, KPIs du palier, bottleneck type (Mindset / Chase / Digestion) toujours le bon ? Si le bottleneck a changé → re-router via `omniroute`.
 
 **Rafraîchissement diagnostic :** problème résolu → retirer de `Diagnosis.md`, historiser ; nouveau problème → ajouter avec Impact / Preuves / Cause racine ; priorités qui bougent → re-classer ; bottleneck inchangé → le confirmer explicitement (« Ton diagnostic tient, le bottleneck reste [X]. »).
 
