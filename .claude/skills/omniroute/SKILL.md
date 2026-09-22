@@ -36,7 +36,7 @@ Si Phase 0 ne s'applique pas, vérifier les triggers organize :
 
 ### Phase 2 — Continuation (rien n'a changé)
 
-Pause courte (même jour ou lendemain) ou question spécifique, sans trigger organize, avec un focus actif dans `Core/Actions.md` : router directement vers le skill du focus en cours, ou vers l'exécution en mode par défaut si le focus ne nécessite pas de skill spécialisé. **Pas de diagnostic complet** — reprendre là où on en était.
+Pause courte (même jour ou lendemain) ou question spécifique, sans trigger organize, avec un focus actif dans `Core/Actions.md` : identifier le skill du focus en cours à partir de la dernière entrée de `Core/Diagnosis.md` (le sous-problème nommé y indique directement le skill — ex. « goulot = trafic » → `traffic`), router dessus, ou vers l'exécution en mode par défaut si le focus ne nécessite pas de skill spécialisé. **Pas de diagnostic complet** — reprendre là où on en était.
 
 **Si l'entrepreneur signale explicitement un changement** (résultat, blocage nouveau, pivot) pendant ce qui semblait être une continuation → remonter à la Phase 3. La continuation est un raccourci, pas un passage obligé qui ignore un signal de changement.
 
