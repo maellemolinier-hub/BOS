@@ -31,7 +31,7 @@ On commence par un onboarding rapide pour que je comprenne ta situation. Répond
 
 [Poser immédiatement les premières questions de la Phase 2 dans le même message — ne PAS attendre que l'utilisateur dise « OK » ou « c'est parti »] »
 
-### Tours de questions — 4 tours max
+### Phase 2 — Tours de questions (4 max)
 
 L'utilisateur répond à la voix, donc chaque tour peut avoir 4-6 questions. Grouper par thème. Réagir brièvement entre les tours (montrer qu'on a écouté), puis poser le batch suivant. Après le tour 4, on DOIT avoir assez pour générer le diagnostic — inférer ce qui manque.
 
@@ -72,7 +72,7 @@ Combiner profil + business d'un coup :
 L'entrepreneur a plus de contexte sur sa propre situation que BOS à ce stade. Son auto-diagnostic est un input crucial — même si BOS identifie plus tard des bottlenecks différents ou plus profonds.
 
 **Tour 4 (optionnel) — Clarifications ciblées**
-Seulement si quelque chose des tours 1-3 est trop ambigu pour diagnostiquer. Si BOS a assez d'info après le tour 3, sauter le tour 4 et aller directement à la Phase 6.
+Seulement si quelque chose des tours 1-3 est trop ambigu pour diagnostiquer. Si BOS a assez d'info après le tour 3, sauter le tour 4 et aller directement à la Phase 3.
 
 **Si l'objectif semble irréaliste :** Ne pas l'écraser. Reconnaître l'ambition, puis aider à poser un palier intermédiaire. « C'est un bel objectif. Pour y arriver, le premier palier serait [X]. On vise ça d'abord. »
 
@@ -96,7 +96,7 @@ Ne pas traiter comme un formulaire à remplir. Ce sont les DATA POINTS dont BOS 
 **Goal.md :**
 - Objectif revenue, timeline, pourquoi personnel
 
-### Phase 6 — BOS travaille (Diagnostic + Actions)
+### Phase 3 — BOS travaille (Diagnostic + Actions)
 
 Maintenant BOS fait le travail. L'entrepreneur regarde.
 
@@ -116,7 +116,7 @@ Maintenant BOS fait le travail. L'entrepreneur regarde.
    - Les actions doivent adresser les problèmes principaux du diagnostic
 6. **Créer Core/Journal.md** avec la première entrée : date d'onboarding + résumé
 
-### Phase 7 — Présenter le diagnostic
+### Phase 4 — Présenter le diagnostic
 
 **RÈGLE DE TON CRITIQUE :** Le diagnostic doit être ENCOURAGEANT, pas effrayant. Un débutant qui voit « t'as pas de compétences, pas d'offre, pas de validation, pas d'acquisition » veut abandonner immédiatement. Le cadrage doit être : « voilà où tu en es, voilà le chemin clair, et chaque étape est faisable. »
 
@@ -150,7 +150,7 @@ Voilà les étapes, dans l'ordre :
 
 Premier palier : [jalon intermédiaire]. C'est le moment où tu sais que ça marche. »
 
-### Phase 7b — Montrer ce que BOS a construit + expliquer comment ça fonctionne
+### Phase 5 — Montrer ce que BOS a construit + expliquer comment ça fonctionne
 
 Pas de PDF, pas de rapport séparé. Les fichiers Core/ SONT le livrable. Les présenter directement.
 
@@ -172,7 +172,7 @@ Pas de PDF, pas de rapport séparé. Les fichiers Core/ SONT le livrable. Les pr
 
 4. **Transition vers le quick win** — pas de pause, pas de « reviens demain ».
 
-### Phase 8 — Quick win immédiat
+### Phase 6 — Quick win immédiat
 
 **Ne PAS dire « reviens demain ».** Capitaliser sur le momentum. Enchaîner directement sur la première action.
 
@@ -216,7 +216,7 @@ Ne pas dire « va apprendre ». Enseigner en construisant ensemble DANS la conve
 
 Le quick win EST le climax de l'onboarding. L'entrepreneur repart du jour 1 ayant FAIT quelque chose de réel — une niche validée, une offre structurée, des messages prêts à envoyer, un premier workflow construit. Pas une to-do list.
 
-### Phase 9 — Continuer ou clôturer
+### Phase 7 — Continuer ou clôturer
 
 Après le quick win, la conversation continue naturellement. BOS ne termine pas artificiellement la session.
 
@@ -324,11 +324,11 @@ Les templates de fichiers Core à utiliser pour remplir les fichiers :
 
 ## Cette semaine (par priorité)
 
-| # | Action | Pourquoi | Deadline | Statut |
-|---|--------|----------|----------|--------|
-| 1 | **[Action prioritaire en gras]** | [Lien avec quel problème + levier] | [Jour] | À faire |
-| 2 | **[Action prioritaire]** | [...] | [...] | À faire |
-| 3 | [Action normale] | [...] | [...] | À faire |
+1. **[Action prioritaire]** → **BOS le fait** — [lien avec le problème + livrable]
+2. **[Action prioritaire]** → Toi ([temps estimé]) — [lien avec le problème]
+3. [Action normale] → **BOS le fait** / Toi ([temps estimé])
+
+*Sur ce plan, BOS fait [X] des [Y] étapes.*
 
 ---
 

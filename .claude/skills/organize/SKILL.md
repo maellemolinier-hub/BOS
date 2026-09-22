@@ -116,7 +116,7 @@ Ne pas finir sur le plan seul : « On commence par [Étape #1] ? » → transiti
 
 | Fichier | Contenu mis à jour |
 |---------|---------------------|
-| `Core/Actions.md` | Actions précédentes archivées (« Actions terminées » + résultats), nouveau focus, tableau des priorités avec répartition BOS/entrepreneur |
+| `Core/Actions.md` | Actions précédentes archivées (« Actions terminées » + résultats), nouveau focus, liste des priorités avec répartition BOS/entrepreneur |
 | `Core/Journal.md` | Append : résumé du cycle (métriques, wins, losses, nouveau focus) |
 | `Core/Diagnosis.md` | Si évolution : ajouts/retraits, historique, bottleneck |
 | `Core/Business.md` | Si nouveaux chiffres ou faits business |

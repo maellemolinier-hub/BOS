@@ -173,7 +173,7 @@ Signes : qualité baisse, churn monte, chaos opérationnel, fondateur fait tout,
 
 ### Phase 6 — Mettre à jour Core/ et router
 
-1. **Core/Diagnosis.md** — phase, sous-problème, justification, données
+1. **Core/Diagnosis.md** — mettre à jour le **Bottleneck** en tête ; ajouter ou reclasser le sous-problème diagnostiqué dans **Problèmes (par impact)** avec Impact/Preuves/Cause racine ; si un ancien problème est résolu, le déplacer dans **Historique**. Suivre la structure canonique définie dans `onboard/SKILL.md` (Output) — ne pas créer un format différent.
 2. **Core/Actions.md** — actions alignées sur le sous-problème
 3. **Core/Journal.md** — append session diagnostic
 4. **Router** vers le skill correspondant — transparent pour l'entrepreneur
@@ -182,22 +182,24 @@ Signes : qualité baisse, churn monte, chaos opérationnel, fondateur fait tout,
 
 | Fichier | Contenu |
 |---------|---------|
-| `Core/Diagnosis.md` | Phase + sous-problème + raison + chiffres |
+| `Core/Diagnosis.md` | Bottleneck + sous-problème ajouté/reclassé (Impact/Preuves/Cause racine) + historique |
 | `Core/Actions.md` | Actions alignées sur 1 goulot |
 | `Core/Journal.md` | Append session |
 
 **Routing transparent** vers : `find`, `traffic`, `offer`, `funnel`, `mindset`, `chase`, ou `digestion`.
 
-**Template Diagnosis.md :**
+**Entrée type dans Diagnosis.md** (respecte le template `onboard/SKILL.md`) :
 
 ```markdown
-## Diagnostic — [Date]
+### N. [Nom du sous-problème — ex. "Trafic insuffisant"]
+- **Impact :** [Pourquoi ça bloque la progression vers l'objectif]
+- **Preuves :** [Données collectées en Phase 1 : revenue, clients, canal, conversion, temps]
+- **Cause racine :** [Pourquoi cette dimension et pas une autre — la justification]
 
-- **Phase :** [Find / PMF / Scale]
-- **Goulot :** [description en 1 phrase]
-- **Données :** [revenue, clients, canal, conversion, temps]
-- **Justification :** [pourquoi cette dimension et pas une autre]
-- **Prochaine validation (7j) :** [métrique à observer]
+## Historique
+| Date | Changement | Raison |
+|------|-----------|--------|
+| [date] | Nouveau diagnostic : [Phase] / [Goulot] | [Justification en 1 phrase] |
 ```
 
 ## Garde-fous

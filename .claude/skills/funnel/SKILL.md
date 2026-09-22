@@ -13,10 +13,10 @@ Beaucoup d'entrepreneurs « optimisent le funnel » alors que le vrai problème 
 ## Croyances
 
 - **Le funnel est la dernière hypothèse.** Si trafic insuffisant ou offre non validée, le problème **n'est pas** le funnel — diagnostiquer autrement.
-- **Data-driven, pas opinion-driven.** Chaque décision doit s'appuyer sur des chiffres (ou sur un plan explicite pour les obtenir).
+- **Data-driven, pas opinion-driven.** Le funnel est l'endroit où l'entrepreneur improvise le plus — « je sens que ce bouton devrait être rouge » n'est pas une décision, c'est un tic. Si les chiffres manquent, la première action n'est pas d'optimiser, c'est d'instrumenter.
 - **Plus gros drop-off d'abord.** On perd le plus de monde à un endroit précis — c'est là le levier #1.
-- **Un seul changement à la fois.** Sinon on ne sait pas ce qui a marché.
-- **Des benchmarks standards existent.** Comparer **avant** de crier au désastre ou de se féliciter.
+- **Un seul changement à la fois.** Changer la page ET l'email ET le prix en même temps produit un résultat qu'on ne peut plus attribuer — l'entrepreneur croira avoir « trouvé la solution » alors qu'il a mélangé trois variables. Un changement, une mesure, un apprentissage.
+- **Des benchmarks standards existent.** Sans repère, 2% de conversion panique un débutant qui ignore que c'est la norme e-commerce — et 8% endort un entrepreneur qui plafonne en dessous de son potentiel réel. Comparer avant de réagir à l'émotion du chiffre.
 - **L'IA peut faire ~80% de l'optimisation** — réécriture, structure, suggestions A/B ; l'humain valide, publie, et respecte la discipline de mesure.
 
 ## Process
