@@ -1,6 +1,6 @@
 # Skill: Offer
 
-Créer une offre que les gens veulent acheter — nouveau produit ou amélioration d'un existant. Déclenché quand le diagnostic identifie un problème d'offre : pas calquée sur un modèle qui marche, pas de preuve client, promesse/désir mal cadrés.
+Créer une offre que les gens veulent acheter — nouveau produit ou amélioration d'un existant. Déclenché quand `omniroute` identifie un problème d'offre : pas calquée sur un modèle qui marche, pas de preuve client, promesse/désir mal cadrés.
 
 ## Objectif
 
