@@ -1,6 +1,6 @@
 # Skill: Mindset
 
-Débloquer l'entrepreneur quand **lui** est le goulot — pas l'offre, pas le marché, pas les opérations. Skill **cross-cutting** : disponible dans toutes les phases (Find, PMF, Scale). Déclenché par `diagnosis` quand le blocage est comportemental, identitaire ou psychologique.
+Débloquer l'entrepreneur quand **lui** est le goulot — pas l'offre, pas le marché, pas les opérations. Skill **cross-cutting** : disponible dans toutes les phases (Find, PMF, Scale). Déclenché par `omniroute` quand le blocage est comportemental, identitaire ou psychologique.
 
 ## Objectif
 

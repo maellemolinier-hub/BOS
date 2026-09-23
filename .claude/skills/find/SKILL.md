@@ -79,7 +79,7 @@ C'est la distinction la plus importante et la plus difficile.
 2. Identifier les vrais problèmes. Dire : "OK, c'est quoi exactement qui ne marche pas ? C'est quoi les problèmes concrets ?"
 3. Le test décisif. Dire : "Si on résolvait ces problèmes — si t'avais des clients, si ton offre marchait — est-ce que tu voudrais encore changer ?" → Presque toujours non.
 4. Reframer. Dire : "Alors c'est plus rapide de résoudre ces problèmes que de tout recommencer. On règle tes problèmes et ton business décolle."
-5. Rediriger vers le skill `diagnosis`.
+5. Rediriger vers le skill `omniroute`.
 
 **Si insistance malgré tout :** Dire : "T'es sûr que c'est pas juste le moment difficile qui parle ? Parce que le prochain business aura aussi un moment difficile, et si la réponse c'est toujours de changer, tu ne finiras jamais rien." Si insistance encore → dérouler Phase 1.
 

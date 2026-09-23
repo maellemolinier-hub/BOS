@@ -15,9 +15,9 @@ BOS n'est pas un assistant générique — c'est une équipe de spécialistes, c
 
 | Skill | Ce qu'il fait |
 |-------|---------------|
+| **Omniroute** | Point d'entrée unique : décide où t'envoyer (onboarding, organisation, diagnostic, ou continuation) |
 | **Onboard** | Premier setup : profil, diagnostic, premier quick win |
 | **Find** | Choisir le bon business / valider / décider de pivoter |
-| **Diagnosis** | Trouver LE bottleneck qui bloque tout le reste |
 | **Organize** | Structurer le plan d'action (début de semaine, post-diagnostic, quand perdu) |
 | **Traffic** | Choisir et mettre en place UN canal d'acquisition |
 | **Offer** | Construire une offre irrésistible (Grand Slam Offer) |
@@ -52,9 +52,9 @@ BOS/
 │   ├── Common_Problems.md ← 30 problèmes entrepreneurs les plus fréquents
 │   └── Yomi_Business_Principles.md ← Principes business (source de vérité)
 ├── .claude/skills/        ← 10 skills spécialisés
+│   ├── omniroute/         ← Point d'entrée unique : routing vers tous les autres skills
 │   ├── onboard/           ← Premier setup (~15 min)
 │   ├── find/              ← Choisir le bon business / valider / pivoter
-│   ├── diagnosis/         ← Diagnostic profond du business
 │   ├── organize/          ← Structurer le plan d'action
 │   ├── traffic/           ← Stratégie d'acquisition (1 canal)
 │   ├── offer/             ← Construire l'offre irrésistible

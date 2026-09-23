@@ -1,6 +1,6 @@
 # Skill: Funnel
 
-Optimiser le tunnel de conversion quand le trafic et l'offre sont déjà des hypothèses validées. Déclenché quand `diagnosis` identifie un problème de conversion en phase PMF — en 3e position (après trafic et offre) car c'est le cas le plus rare : assez de volume qualifié, offre structurée, mais la conversion casse.
+Optimiser le tunnel de conversion quand le trafic et l'offre sont déjà des hypothèses validées. Déclenché quand `omniroute` identifie un problème de conversion en phase PMF — en 3e position (après trafic et offre) car c'est le cas le plus rare : assez de volume qualifié, offre structurée, mais la conversion casse.
 
 Beaucoup d'entrepreneurs « optimisent le funnel » alors que le vrai problème est le volume ou l'offre. Ce skill **assume** : trafic suffisant pour apprendre, offre crédible — sinon **renvoyer** vers `traffic` ou `offer`. Ici : données d'abord, un levier à la fois, IA pour ~80% du travail (copy, structure, propositions de test).
 

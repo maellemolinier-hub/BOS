@@ -1,6 +1,6 @@
 # Skill: Digestion
 
-Gérer le flux actuel quand le goulot est **opérations / qualité / rétention** — pas l'acquisition (Chase), pas le mindset fondateur (Mindset). Déclenché quand `diagnosis` identifie un goulot de type Digestion en phase Scale.
+Gérer le flux actuel quand le goulot est **opérations / qualité / rétention** — pas l'acquisition (Chase), pas le mindset fondateur (Mindset). Déclenché quand `omniroute` identifie un goulot de type Digestion en phase Scale.
 
 Couvre : recrutement complet (People), systématisation (Process), et boucle qualité/rétention (Product Quality).
 

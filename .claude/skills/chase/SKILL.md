@@ -1,6 +1,6 @@
 # Skill: Chase
 
-Augmenter le revenue quand le goulot est **acquisition / monétisation** — pas le fondateur (Mindset), pas les opérations / qualité (Digestion). Déclenché quand `diagnosis` identifie un goulot de type Chase en phase Scale.
+Augmenter le revenue quand le goulot est **acquisition / monétisation** — pas le fondateur (Mindset), pas les opérations / qualité (Digestion). Déclenché quand `omniroute` identifie un goulot de type Chase en phase Scale.
 
 ## Objectif
 
