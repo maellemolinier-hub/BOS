@@ -1,11 +1,131 @@
 {
   "version": 1,
   "skills": {
+    "agents": {
+      "source": "elevenlabs/skills",
+      "sourceType": "github",
+      "skillPath": "agents/SKILL.md",
+      "computedHash": "f17532654c1ab12e6c69bf5faf10bc571e696488d13c3eeb8514449a32c5bbc8"
+    },
+    "cold-email": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "skillPath": "skills/cold-email/SKILL.md",
+      "computedHash": "be0b73511a6244b8b8aa9126225844cfe9e492f4c1ee6bffc57344ce5ee2a6e8"
+    },
+    "copywriting": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "skillPath": "skills/copywriting/SKILL.md",
+      "computedHash": "779f05c8be67da475e6a7af78de3e0400b0038e371ce898dd6ff9d3331aab7db"
+    },
+    "create-assistant": {
+      "source": "VapiAI/skills",
+      "sourceType": "github",
+      "skillPath": "create-assistant/SKILL.md",
+      "computedHash": "b117d54d89a5cf99c193cb393465b1a74fb121bd9de80cc522fa368cc7eefab4"
+    },
+    "create-call": {
+      "source": "VapiAI/skills",
+      "sourceType": "github",
+      "skillPath": "create-call/SKILL.md",
+      "computedHash": "e92ee41f9859957386c7a53a39f73add7c4a1a58e7c6ccaff499d12cd3350723"
+    },
+    "create-campaign": {
+      "source": "VapiAI/skills",
+      "sourceType": "github",
+      "skillPath": "create-campaign/SKILL.md",
+      "computedHash": "00954139b6ea5b9d7730ca64e18eed1d97b7cb606534407d1ce014a96a156e70"
+    },
+    "create-phone-number": {
+      "source": "VapiAI/skills",
+      "sourceType": "github",
+      "skillPath": "create-phone-number/SKILL.md",
+      "computedHash": "a01c36742e89d2ebaed50f26c56205a236f9988f446240b93ac5bed650683177"
+    },
+    "create-tool": {
+      "source": "VapiAI/skills",
+      "sourceType": "github",
+      "skillPath": "create-tool/SKILL.md",
+      "computedHash": "5fa211e8ee1f3d77c9ac475fac974f664e4f8a2ebf4ded079b9e653472778491"
+    },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
       "skillPath": "skills/find-skills/SKILL.md",
       "computedHash": "913b9d37d0d54047dd65222bb8c67b2bf04e3cb87dcad1729068d7a8b2c8c396"
+    },
+    "mcp-builder": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/mcp-builder/SKILL.md",
+      "computedHash": "826e46adf81e1372282e205c34e1a2ee876e72148007726e4a2512599d2fef7b"
+    },
+    "offers": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "skillPath": "skills/offers/SKILL.md",
+      "computedHash": "9f8781bc04889a6f2f23a7167384976bfaf2709da31a2b92d17cc3cbfca84cd4"
+    },
+    "product-marketing": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "skillPath": "skills/product-marketing/SKILL.md",
+      "computedHash": "b8a9cd747705923a7a29cda12e478594e3a5062d8f7c7bfbf19d7fc0b24cee76"
+    },
+    "prospecting": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "skillPath": "skills/prospecting/SKILL.md",
+      "computedHash": "f7b35b4f30367988b2e71ec30a47c39b3c50a1aac3dfeb5c22e02ad8e86576a9"
+    },
+    "seo-local": {
+      "source": "AgriciDaniel/claude-seo",
+      "sourceType": "github",
+      "skillPath": "skills/seo-local/SKILL.md",
+      "computedHash": "58be818a7642b985e873d3467660c904903b87fd6ecf447871a5ca9d90253b15"
+    },
+    "seo-maps": {
+      "source": "AgriciDaniel/claude-seo",
+      "sourceType": "github",
+      "skillPath": "skills/seo-maps/SKILL.md",
+      "computedHash": "642db6c43e54a9f9b01b9484462df5785706b72e0d450481380cda60c5c9b215"
+    },
+    "setup-api-key": {
+      "source": "VapiAI/skills",
+      "sourceType": "github",
+      "skillPath": "setup-api-key/SKILL.md",
+      "computedHash": "4f84e985d464b970fb49994f0c3ae9f26841f87c74451f2448a05a9bac8dd6d6"
+    },
+    "setup-webhook": {
+      "source": "VapiAI/skills",
+      "sourceType": "github",
+      "skillPath": "setup-webhook/SKILL.md",
+      "computedHash": "06488a1b3187a24a83bde78acdfb60a634cea75e89af37a434ed0c93ef88380d"
+    },
+    "skill-creator": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/skill-creator/SKILL.md",
+      "computedHash": "5ea13a6d9f0d4bb694405d79acd00cadec0d21bb138c4dd10fcf3c500cb835c2"
+    },
+    "speech-to-text": {
+      "source": "elevenlabs/skills",
+      "sourceType": "github",
+      "skillPath": "speech-to-text/SKILL.md",
+      "computedHash": "46cf6bb280b5e3d9d76f331d316e5f391c8b78aa220e3e597efa66ecedd5322c"
+    },
+    "text-to-speech": {
+      "source": "elevenlabs/skills",
+      "sourceType": "github",
+      "skillPath": "text-to-speech/SKILL.md",
+      "computedHash": "d62f83848f390707a99665cbb0ce221433c9f65a128e5291640b72c90766d982"
+    },
+    "vapi-prompt-builder": {
+      "source": "VapiAI/skills",
+      "sourceType": "github",
+      "skillPath": "vapi-prompt-builder/SKILL.md",
+      "computedHash": "e1d07d5e7535f3045c768d2a6ebe2d88016b582df25e3bb7304cb5b446d3fff4"
     }
   }
 }
