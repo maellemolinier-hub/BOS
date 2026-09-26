@@ -223,6 +223,7 @@ Le flow de session quotidien (scan → check-in → mise à jour → proposer �
 ## Règles apprises (corrections de Maëlle)
 
 - **Toujours scanner le contexte réel avant de recommander quoi que ce soit** : `Core/`, le Google Drive (Cerveau Central, docs Cap Entreprendre), les artifacts et sessions précédentes, Lovable. Ne jamais déduire l'activité d'un seul repo. Le business, c'est **Cap Entreprendre France** ; le repo `projet-site-pro` contient surtout ImmoExpert, qui n'est pas le focus. *(26/09/2026)*
+- **Capia est une closeuse, pas une prise de RDV.** Parcours : identifier les problèmes et objectifs → proposer la solution adaptée → écouter et isoler les objections, y répondre → closer → envoi du lien de paiement + plaquette personnalisée selon les intérêts du client → RDV avec Maëlle APRÈS l'achat, pour synchroniser les opérations et adapter le produit. Ne jamais la réduire à « décrocher un RDV ». *(26/09/2026)*
 
 ## Ton
 

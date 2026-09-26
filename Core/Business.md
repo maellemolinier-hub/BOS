@@ -42,6 +42,8 @@
 - Liste assainie CAPIA : 57 prospects artisans BTP sans site ni fiche Google (SIRENE + Places), 06 en priorité.
 - Grande base « Artisans et commerçants sans site web (par département) ».
 - Script vocal CAPIA V1 (3 personas) du 23/09.
+- **Rôle de Capia (précisé par Maëlle le 26/09) : closeuse.** Découverte des problèmes → solution adaptée → objections isolées et traitées → closing → lien de paiement + plaquette personnalisée → RDV de lancement avec Maëlle après l'achat.
+- **Chaîne après l'appel (état au 26/09) :** le webhook Make « CAPIA - Résultat appel vocal » crée seulement un contact HubSpot et un message Slack. L'envoi automatique du lien de paiement et de la plaquette n'existe pas encore (à construire ; Stripe à finaliser).
 
 ## Finances
 - CA réel encaissé : **0 €** (tableau de pilotage du 22/09 ; aucune commande enregistrée).
