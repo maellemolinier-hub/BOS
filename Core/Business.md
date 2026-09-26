@@ -49,3 +49,11 @@
 - CA réel encaissé : **0 €** (tableau de pilotage du 22/09 ; aucune commande enregistrée).
 - Pipeline dans le Cerveau Central : 1 pack en cours (Boulangerie Martin, exemple ?), 1 devis assistants de 1 490 € (Plomberie Sud), 1 prospect contacté (SARL Bâti Azur). Ces lignes datent du 01/07 et ressemblent à des exemples : à vérifier.
 - Projections 3 ans (scénario normal) : A1 130 k€, A2 299 k€, A3 523 k€.
+
+## Chaîne automatique après un appel de Capia (en place le 26/09/2026)
+Webhook Make « CAPIA - Résultat appel vocal » → HubSpot + Slack #prospection, puis routage selon `demande` :
+- **commande** : message Slack avec le SMS prêt à envoyer (lien Stripe de l'offre) ; e-mail de confirmation au client (détail du produit, lien de paiement, CGV, étapes suivantes), Maëlle en copie cachée.
+- **devis** : plaquette personnalisée envoyée par e-mail (situation du client, solution, bouton de paiement).
+- **rdv** ou **commande avec créneau** : événement Google Agenda de 30 min avec Google Meet (client invité) + e-mail de confirmation.
+- Liens Stripe automatiques : Pack, SEO, Chatbot, Capia Resto. Pour Capia Entreprise, l'Agent commercial et les Offres globales, pas de lien : Maëlle est alertée sur Slack.
+- **À faire** : connecter un fournisseur SMS (aucun dans Make) ; valider les CGV (brouillon dans le Drive) puis les partager par lien ; activer le paiement en plusieurs fois sur le lien Capia Resto (aujourd'hui carte uniquement).
