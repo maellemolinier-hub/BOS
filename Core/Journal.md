@@ -14,3 +14,4 @@
 - Lancement de la campagne d'appels non fait : Maëlle garde la main sur le déclenchement.
 - Correction de Maëlle : Capia doit closer, pas seulement caler un RDV. Prompt réécrit (découverte → solutions → objections isolées → closing → lien de paiement + plaquette → RDV de lancement après achat). Catalogue d'offres de l'ancienne version de Capia rétabli. Règle ajoutée dans CLAUDE.md.
 - Constat : aucun scénario Make n'envoie aujourd'hui le lien de paiement ni la plaquette après l'appel.
+- Maëlle confirme les prix de la version Capia. Paiement en 3 ou 4 fois disponible (Stripe/Klarna). Capia connaît maintenant les fonctionnalités de chaque offre, dont Capia Resto (imprimante, bon de livraison) et Capia Entreprise (accueil paramétrable). Catalogue et liens Stripe consignés dans Core/Offres.md.
