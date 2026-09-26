@@ -11,7 +11,7 @@
 
 ## Chantiers de construction (au service du focus, pas à la place)
 - **Agents :** déployer Capia sur Vapi (prompt prêt). Transformer chaque assistant de l'organigramme en skill entraîné, en commençant par ceux qui servent la vente : Capia, Quali, Scout, puis Léo et Sacha pour livrer.
-- **Dashboard :** relier l'artifact Pilotage au Cerveau Central / HubSpot pour avoir des chiffres réels.
+- **Dashboard :** ✅ Pilotage relié en direct à HubSpot + Stripe (26/09). Reste : reconnecter HubSpot dans Make avec l'accès « deals » pour créer les transactions avec montant.
 - **Site :** refonte de Stellar Visibility (Lovable) : section Assistants IA + Dashboard + Capia en démo live, pages SEO locales, lien vers le blog.
 - **Équipe formée :** chat « Équipe » (existant) connecté aux vrais prompts et à la charte de voix.
 

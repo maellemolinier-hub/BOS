@@ -55,5 +55,8 @@ Webhook Make « CAPIA - Résultat appel vocal » → HubSpot + Slack #prospectio
 - **commande** : message Slack avec le SMS prêt à envoyer (lien Stripe de l'offre) ; e-mail de confirmation au client (détail du produit, lien de paiement, CGV, étapes suivantes), Maëlle en copie cachée.
 - **devis** : plaquette personnalisée envoyée par e-mail (situation du client, solution, bouton de paiement).
 - **rdv** ou **commande avec créneau** : événement Google Agenda de 30 min avec Google Meet (client invité) + e-mail de confirmation.
-- Liens Stripe automatiques : Pack, SEO, Chatbot, Capia Resto. Pour Capia Entreprise, l'Agent commercial et les Offres globales, pas de lien : Maëlle est alertée sur Slack.
+- **À chaque appel réel** (hors répondeur) : fiche HubSpot créée (sans e-mail) ou mise à jour (avec e-mail, upsert), compte rendu horodaté dans la propriété « message », passage au statut « client » si commande ; e-mail récapitulatif envoyé à Maëlle (demande, offre, montant, contact, RDV, liens de paiement, liens HubSpot/Stripe/Agenda).
+- Liens Stripe automatiques : Pack, SEO, Capia Resto, Assistant Essentiel, Suite Assistants Pro, Suite Entreprise (acompte), plus les liens de maintenance (99 € et 199 €/mois) ajoutés dans l'e-mail client et le SMS. Chatbot, Capia Entreprise, Agent commercial et Offres globales : pas de lien, Maëlle est alertée.
+- Tableau de pilotage en direct (HubSpot + Stripe) : https://claude.ai/artifact/XWtXv8CYa9xcZfFPAHd1KU
+- **Bloqué** : création des transactions (deals) HubSpot avec montant, car la connexion HubSpot de Make n'a pas l'accès « deals ». À reconnecter dans Make.
 - **À faire** : connecter un fournisseur SMS (aucun dans Make) ; valider les CGV (brouillon dans le Drive) puis les partager par lien ; activer le paiement en plusieurs fois sur le lien Capia Resto (aujourd'hui carte uniquement).
