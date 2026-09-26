@@ -19,3 +19,4 @@
 - Suivi demandé par Maëlle : HubSpot mis à jour et e-mail récap pour elle à chaque contact client, tout consultable. Fait dans Make (upsert HubSpot, e-mail récap, erreurs HubSpot ignorées pour ne jamais bloquer les e-mails client). Grille setup + maintenance ajoutée : produits et liens Stripe créés pour les maintenances Assistant Essentiel (99 €/mois) et Suite Assistants Pro (199 €/mois). Capia connaît 3 nouveaux codes d'offre. Bug corrigé : « chatbot » envoyait le lien Assistant Essentiel à 1 490 €.
 - Tableau de pilotage refait : lit HubSpot et Stripe en direct (appels Capia, clients, paiements, paiements abandonnés, leads à appeler).
 - Transactions HubSpot impossibles pour l'instant : la connexion HubSpot de Make n'a pas le droit « deals ».
+- Brevo bloqué (compte pas encore validé pour les envois). Bascule sur SMS Factor, connecté par Maëlle dans Make. SMS de paiement désormais envoyé automatiquement après chaque commande Capia.
