@@ -10,3 +10,9 @@
 
 ## Outils
 - Lovable (plan Pro depuis le 2026-11-05), Vercel, GitHub.
+
+### Le Vesper — nom de domaine actuel
+- vespercannes.com — registrar BookMyName (Scaleway), créé 2016, expire 2027-09-04.
+- DNS + hébergement chez o2switch (ns1/ns2.o2switch.net, IP 109.234.162.92), contact technique au nom d'o2switch.
+- ⚠️ Site actuel piraté : contenu Vesper truffé de liens spam casino en ligne (constaté 2026-11-05) → nuit au référencement Google.
+- Branchement prévu : réglage DNS dans le cPanel o2switch (zone DNS) vers Lovable, après validation du nouveau site.
