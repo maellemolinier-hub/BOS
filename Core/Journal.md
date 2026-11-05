@@ -1,1 +1,6 @@
 # Journal
+
+## 2026-11-05
+- Reprise du site du Vesper (client). Constat : agenda vide (Wyylde non branché), quasi zéro trafic.
+- Décision : créer un espace /admin pour que le gérant colle ses flyers dans l'agenda. Construction lancée via Lovable.
+- À suivre : créer le compte admin du client (e-mail à récupérer), puis traiter le trafic (domaine, fiche Google, SEO local).
