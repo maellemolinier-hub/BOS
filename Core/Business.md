@@ -9,4 +9,4 @@
 - Analytics (sept→nov 2026) : 29 visiteurs, 100 % direct, 62 % mobile, 4 vues /reservation. Aucun trafic Google/social.
 
 ## Outils
-- Lovable (plan gratuit — crédits limités), Vercel, GitHub.
+- Lovable (plan Pro depuis le 2026-11-05), Vercel, GitHub.
