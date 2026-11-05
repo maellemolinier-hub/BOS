@@ -16,3 +16,10 @@
 - DNS + hébergement chez o2switch (ns1/ns2.o2switch.net, IP 109.234.162.92), contact technique au nom d'o2switch.
 - ⚠️ Site actuel piraté : contenu Vesper truffé de liens spam casino en ligne (constaté 2026-11-05) → nuit au référencement Google.
 - Branchement prévu : réglage DNS dans le cPanel o2switch (zone DNS) vers Lovable, après validation du nouveau site.
+
+### Le Vesper — notoriété en ligne (relevé 2026-11-05)
+- Club connu, domaine depuis 2016. Gérants : Gilles (très cité dans les avis) et Fred.
+- Google 4,0/5 (36 avis : 25×5★, 8×1★), TripAdvisor « Vesper Bar » 4,2/5 (11 avis, fiche non revendiquée), libertimax N°4/4 à Cannes, Wanderlog, mon-club.tel, Yably 2,3/5 (via restaurantguru).
+- ⚠️ Coordonnées incohérentes selon les annuaires : TripAdvisor = +33 7 63 63 28 01 / Vespercannes@gmail.com ; autres = +33 6 66 36 58 19 / vesperbarcannes@gmail.com ; horaires 20h00 vs 20h30.
+- ⚠️ Ancien robots.txt bloquait YandexBot et Baiduspider → invisible pour clientèle russe/chinoise. Corrigé dans le nouveau site.
+- Avis négatifs récurrents à traiter : accusation de discrimination (mai 2026, répondue), hommes seuls mal filtrés, prix.
