@@ -10,3 +10,4 @@
 ## 2026-11-08
 - Décision : Gaethan (à l'aise en informatique) reprend et héberge lui-même le site hors Lovable. Livrable : zip autonome (médias embarqués, sans dépendances Lovable) + supabase-setup.sql + DEPLOIEMENT.md (Vercel + Supabase, domaine o2switch). Export portable demandé à Lovable, vérification locale avant envoi.
 - À faire Maëlle : facturer la création (vente unique), envoyer zip + message à Gaethan.
+- 20h20 : zip autonome livré à Maëlle (/home/user/vesper-site.zip, 143 fichiers, 5 Mo). Vérifié localement : tsc 0 erreur, eslint 0, 23/23 tests, build Vercel OK, build node-server OK et rendu /fr /ru /ar /privatisation /admin /robots.txt /sitemap.xml (68 URL) + vidéo OK. Non testé : supabase-setup.sql sur un Supabase vierge. Flyers existants non repris (base neuve).
