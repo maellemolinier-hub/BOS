@@ -1,7 +1,8 @@
 # Actions
 
-_Focus : décrocher des RDV pour sites internet + Capia Resto_
+*Mis à jour : 11/11/2026 — Focus : 1er client (site ou Capia Resto)*
 
-- **Appeler 10 entreprises de la liste « CAPIA — Liste assainie » (06, autour de Grasse) avec le script BOS — objectif : 1 RDV.**
-- Confirmer prix site + prix/format Capia + démo dispo.
-- Laisser tourner l'agent email (Ain) et mesurer réponses à J+7.
+- **Appeler soi-même 10 artisans de la liste 06 (script BOS) — objectif : 1 RDV.** Pas d'attente de Capia.
+- Décider : recharger ElevenLabs pour que Capia appelle, ou continuer à la main d'abord.
+- Laisser tourner l'agent email (Ain), mesurer les réponses à J+7.
+- Changer le mot de passe SIP Easybell s'il n'a pas été changé.

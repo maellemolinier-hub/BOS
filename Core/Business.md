@@ -1,28 +1,70 @@
-# Business
+# Business — Cap Entreprendre France (« Cap+ »)
 
-## Entreprise
-- **Nom :** Cap Entreprendre France — agence web basée à Grasse (PACA)
-- **Site :** https://cap-entreprendre-france.fr
+*Dernière mise à jour : 11/11/2026 (contexte du 26/09 restauré + état du 11/11)*
 
-## Persona
-- Artisans et TPE à Grasse et en PACA, souvent sans site web ni fiche Google optimisée.
-- Ne comprennent pas le web, veulent que « quelqu'un s'en occupe ».
+> ⚠️ Le business, c'est **Cap Entreprendre France**. Le repo `projet-site-pro` contient aussi « ImmoExpert » (SaaS immo), qui n'est PAS le focus actuel. Seules les pages `campagnes/digitalisation-en-7-jours` y concernent Cap Entreprendre.
+
+## Positionnement
+- Agence de digitalisation + assistants IA pour artisans, commerçants et TPE/PME. Cible **nationale** (corrigé le 22/09), point de départ Grasse / PACA (06-83-05).
+- Promesse de marque : **« Propriétaire, pas prisonnier »**. Le client possède 100 % de son site, de son domaine, de sa fiche et de ses données, contrairement à Solocal / Wix / Uber Eats.
+- Piliers de contenu : « L'IA utile » (principal) + « Propriétaire pas prisonnier » (secondaire). Charte de voix créée le 22/09.
 
 ## Offres
-### Priorités actuelles (dites par l'entrepreneure, 11/11/2026)
-1. **Sites internet** — obtenir des commandes de sites.
-2. **Capia Resto** — assistant IA vocal pour restaurants. Détails à compléter (fonctions, prix, état : démo prête ?).
+| Offre | Prix | Persona |
+|---|---|---|
+| Pack Digitalisation (« Digitalisation en 7 jours ») | 999 € one-shot : site + domaine + fiche Google Business + SEO de base (+ réseaux, 6 mois de posts selon les versions) | Créateur pressé (0-6 mois) |
+| SEO + Contenu | 390 €/mois : SEO local, fiche Google, posts / stories / shorts | Commerçant / artisan installé (« Marc ») |
+| Assistants métier / agent IA vocal | Sur devis, ~2 500 € (analyse préalable). Priorité de diffusion depuis le 11/09 | Dirigeant·e TPE/PME (« Julie »), agents immo, marchands de biens |
+| Capia Commande (resto) | 2 990 € (ou 4x) + 199 €/mois de maintenance. IA vocale qui prend les commandes et les imprime en cuisine, face à Uber Eats | Restaurateurs |
+| Maintenance | 99 €/mois et 199 €/mois (prix à confirmer) | Clients livrés |
 
-### Offre secondaire (pas le focus aujourd'hui)
-- **« Digitalisation en 7 jours »** : site web sur-mesure + fiche Google Business optimisée.
-- Coût unique, délai garanti (7 jours).
-- Déroulé : J1 échange 30 min → J2 rédaction → J3 design → J4 intégration → J5 fiche Google → J6 relecture → J7 mise en ligne.
-- Prix : à confirmer avec l'entrepreneure.
+## Organisation — l'équipe d'assistants (organigramme)
+23 assistants + BOS (coordination) + Ops (maintenance client, ajouté le 22/09), répartis en 7 pôles :
+- **Acquisition :** Scout (sourcing), **Capia** (prospection vocale, opérationnelle), Quali (qualification)
+- **Production :** Archi (architecture), Léo (dev sites / Lovable), Lina (UX), Sacha (SEO local), Mia (réseaux sociaux, tourne réellement sur Make + Gemini + Buffer depuis juillet), Théo (rédaction)
+- **Relation client :** Iris (infos manquantes), Nina (emails), Sam (SAV), Ruby (avis)
+- **Fidélisation :** Bilan (bilans mensuels), Timo (parrainage)
+- **Stratégie :** Radar (veille IA), Scope (concurrence), Sage (conseil)
+- **Pilotage :** BOS
+- **Support & maintenance :** Archive (doc), Sentinel (fiabilité / sécurité), Lex (RGPD), Compta
+- Statut au 22/09 : Capia et BOS opérationnels ; Léo, Sacha, Mia et Théo ont leur prompt prêt ; tous les autres sont « à traiter ».
 
-## Marketing / Prospection
-- Pages de campagne SEO « Digitalisation en 7 jours » (une page par jour).
-- Scénario Make existant : import Google Sheet → Brevo « prospection sans site » (cold email vers entreprises sans site).
-- Outil envisagé : Sellbird (ex-Harvey), open source AGPL-3.0, prospection cold email automatisée. Nécessite un ordi allumé ou un serveur + abonnement Claude + boîte mail sur domaine secondaire. Version hébergée sellbird.ai en accès anticipé.
+## Outils & infrastructure
+- **Cerveau Central** (Google Sheet `Cap-Entreprendre-Cerveau-Central-1`) : mémoire de tous les assistants. Make y lit et y écrit. Onglets : CAPIA Inbox, Journal agents, CRM prospects, Audits, Devis, Onboarding, Paiements, Avis, Tâches & validations, KPI.
+- **Site public :** Lovable, projet « Stellar Visibility » (publié, one-page style sci-fi avec interface d'assistant vocal, dernière modif 25/09). Blog hébergé hors Lovable (3 articles).
+- **Make :** scénarios « CAPIA cerveau Gemini », « Prospection extraction artisans/commerçants », « Recherche Google Places par métier », « CAPIA - Résultat appel vocal » (branché sur HubSpot + Slack #prospection).
+- **HubSpot :** 658 contacts importés le 17/09, 0 travaillé.
+- **Voix :** Easybell (trunk SIP) + ElevenLabs ; agent Vapi Capia prêt sur le fond, compte Vapi pas encore connecté.
+- **Paiement / signature :** Stripe (connexion à finaliser), DocuSign (connecté, template à créer).
+- **Artifacts Claude :** Pilotage (dashboard avec base de données), Équipe (chat avec chaque assistant), Espace Client (portail démo), Capia Commande (flyer), Débrief, Agent Vapi, Argumentaire, Entonnoir, contenus (calendrier 15 j, vidéos, blog).
+
+## Prospection
+- Liste assainie CAPIA : 57 prospects artisans BTP sans site ni fiche Google (SIRENE + Places), 06 en priorité.
+- Grande base « Artisans et commerçants sans site web (par département) ».
+- Script vocal CAPIA V1 (3 personas) du 23/09.
+- **Rôle de Capia (précisé par Maëlle le 26/09) : closeuse.** Découverte des problèmes → solution adaptée → objections isolées et traitées → closing → lien de paiement + plaquette personnalisée → RDV de lancement avec Maëlle après l'achat.
+- **Chaîne après l'appel (état au 26/09) :** le webhook Make « CAPIA - Résultat appel vocal » crée seulement un contact HubSpot et un message Slack. L'envoi automatique du lien de paiement et de la plaquette n'existe pas encore (à construire ; Stripe à finaliser).
+
+## Finances
+- CA réel encaissé : **0 €** (tableau de pilotage du 22/09 ; aucune commande enregistrée).
+- Pipeline dans le Cerveau Central : 1 pack en cours (Boulangerie Martin, exemple ?), 1 devis assistants de 1 490 € (Plomberie Sud), 1 prospect contacté (SARL Bâti Azur). Ces lignes datent du 01/07 et ressemblent à des exemples : à vérifier.
+- Projections 3 ans (scénario normal) : A1 130 k€, A2 299 k€, A3 523 k€.
+
+## Chaîne automatique après un appel de Capia (en place le 26/09/2026)
+Webhook Make « CAPIA - Résultat appel vocal » → HubSpot + Slack #prospection, puis routage selon `demande` :
+- **commande** : SMS automatique au client via SMS Factor (lien Stripe de l'offre + lien de maintenance s'il existe, expéditeur « CapEntrepr ») et alerte Slack ; e-mail de confirmation au client (détail du produit, lien de paiement, CGV, étapes suivantes), Maëlle en copie cachée.
+- **devis** : plaquette personnalisée envoyée par e-mail (situation du client, solution, bouton de paiement).
+- **rdv** ou **commande avec créneau** : événement Google Agenda de 30 min avec Google Meet (client invité) + e-mail de confirmation.
+- **À chaque appel réel** (hors répondeur) : fiche HubSpot créée (sans e-mail) ou mise à jour (avec e-mail, upsert), compte rendu horodaté dans la propriété « message », passage au statut « client » si commande ; e-mail récapitulatif envoyé à Maëlle (demande, offre, montant, contact, RDV, liens de paiement, liens HubSpot/Stripe/Agenda).
+- Liens Stripe automatiques : Pack, SEO, Capia Resto, Assistant Essentiel, Suite Assistants Pro, Suite Entreprise (acompte), plus les liens de maintenance (99 € et 199 €/mois) ajoutés dans l'e-mail client et le SMS. Chatbot, Capia Entreprise, Agent commercial et Offres globales : pas de lien, Maëlle est alertée.
+- Tableau de pilotage en direct (HubSpot + Stripe) : https://claude.ai/artifact/XWtXv8CYa9xcZfFPAHd1KU
+- **Bloqué** : création des transactions (deals) HubSpot avec montant, car la connexion HubSpot de Make n'a pas l'accès « deals ». À reconnecter dans Make.
+- **À faire** : valider les CGV (brouillon dans le Drive) puis les partager par lien ; activer le paiement en plusieurs fois sur le lien Capia Resto (aujourd'hui carte uniquement).
+
+
+## Focus déclaré par Maëlle le 11/11/2026
+1. Décrocher des commandes de **sites internet**.
+2. Vendre **Capia Resto** (Capia Commande, 2 990 € ou 4x + 199 €/mois).
 
 ## Système de prospection actuel (constaté le 11/11/2026 dans Google Sheets + Gmail)
 - Agent automatisé (cold email Gmail, sous le nom « Maëlle JEAN / Cap Entreprendre France ») : onglet « CEF — Collecte nationale » du sheet « Prospection - Artisans et commerçants sans site web ». Objectif affiché 450 envois.
@@ -33,9 +75,8 @@
 - Listes avec téléphones, jamais appelées (« A contacter ») : « Prospects SITE INTERNET - BTP, Coiffeurs, Jardiniers » (~500, national) et « CAPIA — Liste assainie » (artisans 06 + 83, avec téléphones). « Prospects AGENT VOCAL CAPIA » est vide.
 - Fiche Google Business Cap Entreprendre : 0 vue en octobre 2026.
 
-## Outils
-- Site : Next.js (monorepo `projet-site-pro`), déployé sur Vercel.
-- Make, Brevo, Google Sheets.
 
-## Finances
-- À compléter (nb clients, CA actuel).
+## Capia — état réel au 11/11/2026 (vérifié dans ElevenLabs)
+- Agent « Capia (vocal) - Prospection 06/05 » (agent_5501kzncxksnfv3ten2yza87a93b) : 9 conversations au total, toutes des tests navigateur les 11-12/08 (Maëlle joue coiffeuse, vendeur de saucisson…). Les tests coiffeuse et saucisson se terminent par un RDV : le script fonctionne en simulation.
+- Depuis le 12/08 : erreurs « quota limit » ElevenLabs. Aucun appel depuis, l'appel test du 26/09 n'apparaît pas.
+- **Capia n'a encore jamais appelé un vrai prospect.**
