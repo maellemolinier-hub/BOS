@@ -8,7 +8,12 @@
 - Artisans et TPE à Grasse et en PACA, souvent sans site web ni fiche Google optimisée.
 - Ne comprennent pas le web, veulent que « quelqu'un s'en occupe ».
 
-## Offre
+## Offres
+### Priorités actuelles (dites par l'entrepreneure, 11/11/2026)
+1. **Sites internet** — obtenir des commandes de sites.
+2. **Capia Resto** — assistant IA vocal pour restaurants. Détails à compléter (fonctions, prix, état : démo prête ?).
+
+### Offre secondaire (pas le focus aujourd'hui)
 - **« Digitalisation en 7 jours »** : site web sur-mesure + fiche Google Business optimisée.
 - Coût unique, délai garanti (7 jours).
 - Déroulé : J1 échange 30 min → J2 rédaction → J3 design → J4 intégration → J5 fiche Google → J6 relecture → J7 mise en ligne.
