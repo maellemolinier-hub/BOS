@@ -24,6 +24,15 @@
 - Scénario Make existant : import Google Sheet → Brevo « prospection sans site » (cold email vers entreprises sans site).
 - Outil envisagé : Sellbird (ex-Harvey), open source AGPL-3.0, prospection cold email automatisée. Nécessite un ordi allumé ou un serveur + abonnement Claude + boîte mail sur domaine secondaire. Version hébergée sellbird.ai en accès anticipé.
 
+## Système de prospection actuel (constaté le 11/11/2026 dans Google Sheets + Gmail)
+- Agent automatisé (cold email Gmail, sous le nom « Maëlle JEAN / Cap Entreprendre France ») : onglet « CEF — Collecte nationale » du sheet « Prospection - Artisans et commerçants sans site web ». Objectif affiché 450 envois.
+- Cible actuelle des envois : département 01 (Ain : Buellas, Cerdon, Certines, Cessy, Ceyzériat, Chalamont…).
+- Volume : ~20 premiers envois + ~12 relances en une semaine (4–11/11). Beaucoup de prospects bloqués « email manquant ».
+- Emails HTML soignés, CTA = créneau Google Agenda 15 min (https://calendar.app.google/HvZE8LtaQg5Fwyrv9).
+- Résultat au 11/11 : aucune réponse prospect visible dans Gmail. 1 bounce.
+- Listes avec téléphones, jamais appelées (« A contacter ») : « Prospects SITE INTERNET - BTP, Coiffeurs, Jardiniers » (~500, national) et « CAPIA — Liste assainie » (artisans 06 + 83, avec téléphones). « Prospects AGENT VOCAL CAPIA » est vide.
+- Fiche Google Business Cap Entreprendre : 0 vue en octobre 2026.
+
 ## Outils
 - Site : Next.js (monorepo `projet-site-pro`), déployé sur Vercel.
 - Make, Brevo, Google Sheets.

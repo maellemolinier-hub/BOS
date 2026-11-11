@@ -5,3 +5,4 @@
 - Rappel de l'entreprise : Cap Entreprendre France, offre « Digitalisation en 7 jours » (Grasse/PACA). Business.md rempli depuis le site.
 - Question : revendre le système de prospection ? Réponse BOS : possible plus tard (AGPL, service done-for-you), mais focus d'abord sur vendre l'offre principale.
 - Correction : le focus n'est PAS « Digitalisation en 7 jours ». Objectif du jour = décrocher des commandes de sites internet + vendre Capia Resto (assistant IA vocal pour restos).
+- Revue des Google Sheets + Gmail : agent email actif sur l'Ain (~20 envois + 12 relances), 0 réponse. Listes téléphones (06/83) jamais appelées. Reco BOS : téléphone local en priorité.
