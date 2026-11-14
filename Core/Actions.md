@@ -21,11 +21,11 @@
 | Toilettage SPA by Omatiti | spa-omatiti.lovable.app (en ligne, Lovable) | envoyé 14/11 | en attente |
 | Cannes Pressing | cannes-pressing.lovable.app (en ligne, Lovable) | envoyé 14/11 | en attente |
 | Claire Masquelier Sophrologie | claire-masquelier-sophrologie.lovable.app (en ligne, Lovable) | envoyé 14/11 | en attente |
-| Yaya Barber (Cannes) | yaya-barber-cannes.lovable.app | à envoyer (vérifier fiche Google avant) | |
-| L'Art des Ongles (La Bocca) | art-des-ongles-cannes.lovable.app | à envoyer (vérifier fiche Google avant) | |
-| Cup'Cakes & Confettis (Grasse) | cupcakes-confettis-grasse.lovable.app | à envoyer (vérifier bio Facebook avant) | |
-| Taxi David (Pégomas) | taxi-david-pegomas.lovable.app | à envoyer (vérification faible : un seul annuaire) | |
-| Dominique Duthoit, accordeur (St-Laurent-du-Var) | duthoit-accordeur-pianos.lovable.app | à envoyer (vérifier fiche Google avant) | |
+| Yaya Barber (Cannes) | yaya-barber-cannes.lovable.app | envoyé 14/11 | en attente |
+| L'Art des Ongles (La Bocca) | art-des-ongles-cannes.lovable.app | envoyé 14/11 | en attente |
+| Cup'Cakes & Confettis (Grasse) | cupcakes-confettis-grasse.lovable.app | envoyé 14/11 | en attente |
+| Taxi David (Pégomas) | taxi-david-pegomas.lovable.app | envoyé 14/11 | en attente |
+| Dominique Duthoit, accordeur (St-Laurent-du-Var) | duthoit-accordeur-pianos.lovable.app | envoyé 14/11 | en attente |
 
 Page d'envoi (boutons WhatsApp/SMS prêts) : https://envois-cap-entreprendre.lovable.app
 

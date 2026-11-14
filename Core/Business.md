@@ -12,5 +12,5 @@
 - Méthode testée le 14/11/2026 : site de démo créé à l'avance, puis contact du commerçant.
 
 ## Outils
-- Make (scénario import Sheet → Brevo), Brevo, Google Sheets, Canva, Figma, Vercel/Netlify.
+- Make (scénario import Sheet → Brevo), Brevo, Google Sheets, Canva, Figma, Vercel/Netlify, Lovable (forfait, hébergement des démos). Brevo : liste « Démos sites - Contactés » pour le suivi des prospects contactés.
 - Offre commerciale (14/11/2026) : nom de domaine offert la première année pour toute commande de site. À inclure dans tous les messages de prospection.
