@@ -118,3 +118,36 @@ sms:+33687145071?&body=Bonjour%2C%20je%20suis%20Ma%C3%ABlle%2C%20de%20Cap%20Entr
 
 Bonjour, je suis Maëlle, de Cap Entreprendre France. Je n'ai pas trouvé de site pour Cannes Pressing, boulevard Carnot. Je vous en ai préparé un : on y voit si vous êtes ouvert, et le client vous prévient de son dépôt par SMS : https://cannes-pressing.lovable.app
 C'est une maquette, gratuite et sans engagement. Et pour toute commande, le nom de domaine est offert la première année. Si vous avez déjà un site, dites-le-moi et je la retire.
+
+
+# Lot du 14/11 — 5 démos Lovable
+
+## Yaya Barber
+https://wa.me/33627811417?text=Bonjour%2C%20je%20suis%20Ma%C3%ABlle%2C%20de%20Cap%20Entreprendre%20France.%20J%27ai%20vu%20vos%2057%20avis%20%C3%A0%204%2C9%2F5%20sur%20Planity%2C%20mais%20je%20n%27ai%20pas%20trouv%C3%A9%20de%20site%20pour%20Yaya%20Barber.%20Je%20vous%20en%20ai%20pr%C3%A9par%C3%A9%20un%2C%20avec%20votre%20carte%20et%20la%20r%C3%A9servation%20en%20un%20geste%20%3A%20https%3A%2F%2Fyaya-barber-cannes.lovable.app%0AC%27est%20une%20maquette%2C%20gratuite%20et%20sans%20engagement.%20Et%20pour%20toute%20commande%2C%20le%20nom%20de%20domaine%20est%20offert%20la%20premi%C3%A8re%20ann%C3%A9e.%20Si%20vous%20avez%20d%C3%A9j%C3%A0%20un%20site%2C%20dites-le-moi%20et%20je%20la%20retire.
+
+Bonjour, je suis Maëlle, de Cap Entreprendre France. J'ai vu vos 57 avis à 4,9/5 sur Planity, mais je n'ai pas trouvé de site pour Yaya Barber. Je vous en ai préparé un, avec votre carte et la réservation en un geste : https://yaya-barber-cannes.lovable.app
+C'est une maquette, gratuite et sans engagement. Et pour toute commande, le nom de domaine est offert la première année. Si vous avez déjà un site, dites-le-moi et je la retire.
+
+## L'Art des Ongles
+https://wa.me/33611018355?text=Bonjour%2C%20je%20suis%20Ma%C3%ABlle%2C%20de%20Cap%20Entreprendre%20France.%20Je%20n%27ai%20pas%20trouv%C3%A9%20de%20site%20pour%20L%27Art%20des%20Ongles%20%C3%A0%20La%20Bocca.%20Je%20vous%20en%20ai%20pr%C3%A9par%C3%A9%20un%2C%20o%C3%B9%20vos%20clientes%20essaient%20leur%20couleur%20et%20demandent%20leur%20rendez-vous%20%3A%20https%3A%2F%2Fart-des-ongles-cannes.lovable.app%0AC%27est%20une%20maquette%2C%20gratuite%20et%20sans%20engagement.%20Et%20pour%20toute%20commande%2C%20le%20nom%20de%20domaine%20est%20offert%20la%20premi%C3%A8re%20ann%C3%A9e.%20Si%20vous%20avez%20d%C3%A9j%C3%A0%20un%20site%2C%20dites-le-moi%20et%20je%20la%20retire.
+
+Bonjour, je suis Maëlle, de Cap Entreprendre France. Je n'ai pas trouvé de site pour L'Art des Ongles à La Bocca. Je vous en ai préparé un, où vos clientes essaient leur couleur et demandent leur rendez-vous : https://art-des-ongles-cannes.lovable.app
+C'est une maquette, gratuite et sans engagement. Et pour toute commande, le nom de domaine est offert la première année. Si vous avez déjà un site, dites-le-moi et je la retire.
+
+## Cup'Cakes & Confettis
+https://wa.me/33672529945?text=Bonjour%2C%20je%20suis%20Ma%C3%ABlle%2C%20de%20Cap%20Entreprendre%20France.%20J%27ai%20vu%20vos%20g%C3%A2teaux%20sur%20Facebook%2C%20mais%20je%20n%27ai%20pas%20trouv%C3%A9%20de%20site%20%C3%A0%20vous.%20Je%20vous%20en%20ai%20pr%C3%A9par%C3%A9%20un%2C%20o%C3%B9%20vos%20clients%20composent%20leur%20g%C3%A2teau%20et%20vous%20envoient%20leur%20commande%20%3A%20https%3A%2F%2Fcupcakes-confettis-grasse.lovable.app%0AC%27est%20une%20maquette%2C%20gratuite%20et%20sans%20engagement.%20Et%20pour%20toute%20commande%2C%20le%20nom%20de%20domaine%20est%20offert%20la%20premi%C3%A8re%20ann%C3%A9e.%20Si%20vous%20avez%20d%C3%A9j%C3%A0%20un%20site%2C%20dites-le-moi%20et%20je%20la%20retire.
+
+Bonjour, je suis Maëlle, de Cap Entreprendre France. J'ai vu vos gâteaux sur Facebook, mais je n'ai pas trouvé de site à vous. Je vous en ai préparé un, où vos clients composent leur gâteau et vous envoient leur commande : https://cupcakes-confettis-grasse.lovable.app
+C'est une maquette, gratuite et sans engagement. Et pour toute commande, le nom de domaine est offert la première année. Si vous avez déjà un site, dites-le-moi et je la retire.
+
+## Taxi David
+https://wa.me/33609525425?text=Bonjour%2C%20je%20suis%20Ma%C3%ABlle%2C%20de%20Cap%20Entreprendre%20France.%20Je%20cherchais%20un%20taxi%20%C3%A0%20P%C3%A9gomas%20et%20je%20n%27ai%20pas%20trouv%C3%A9%20de%20site%20pour%20Taxi%20David.%20Je%20vous%20en%20ai%20pr%C3%A9par%C3%A9%20un%2C%20o%C3%B9%20le%20client%20r%C3%A9serve%20sa%20course%20en%20quelques%20secondes%20%3A%20https%3A%2F%2Ftaxi-david-pegomas.lovable.app%0AC%27est%20une%20maquette%2C%20gratuite%20et%20sans%20engagement.%20Et%20pour%20toute%20commande%2C%20le%20nom%20de%20domaine%20est%20offert%20la%20premi%C3%A8re%20ann%C3%A9e.%20Si%20vous%20avez%20d%C3%A9j%C3%A0%20un%20site%2C%20dites-le-moi%20et%20je%20la%20retire.
+
+Bonjour, je suis Maëlle, de Cap Entreprendre France. Je cherchais un taxi à Pégomas et je n'ai pas trouvé de site pour Taxi David. Je vous en ai préparé un, où le client réserve sa course en quelques secondes : https://taxi-david-pegomas.lovable.app
+C'est une maquette, gratuite et sans engagement. Et pour toute commande, le nom de domaine est offert la première année. Si vous avez déjà un site, dites-le-moi et je la retire.
+
+## Dominique Duthoit
+https://wa.me/33612226686?text=Bonjour%20M.%20Duthoit%2C%20je%20suis%20Ma%C3%ABlle%2C%20de%20Cap%20Entreprendre%20France.%20Je%20cherchais%20un%20accordeur%20de%20pianos%20sur%20la%20C%C3%B4te%20d%27Azur%20et%20je%20n%27ai%20pas%20trouv%C3%A9%20de%20site%20%C3%A0%20votre%20nom.%20Je%20vous%20en%20ai%20pr%C3%A9par%C3%A9%20un%2C%20avec%20un%20petit%20clavier%20sur%20lequel%20on%20peut%20jouer%20%3A%20https%3A%2F%2Fduthoit-accordeur-pianos.lovable.app%0AC%27est%20une%20maquette%2C%20gratuite%20et%20sans%20engagement.%20Et%20pour%20toute%20commande%2C%20le%20nom%20de%20domaine%20est%20offert%20la%20premi%C3%A8re%20ann%C3%A9e.%20Si%20vous%20avez%20d%C3%A9j%C3%A0%20un%20site%2C%20dites-le-moi%20et%20je%20la%20retire.
+
+Bonjour M. Duthoit, je suis Maëlle, de Cap Entreprendre France. Je cherchais un accordeur de pianos sur la Côte d'Azur et je n'ai pas trouvé de site à votre nom. Je vous en ai préparé un, avec un petit clavier sur lequel on peut jouer : https://duthoit-accordeur-pianos.lovable.app
+C'est une maquette, gratuite et sans engagement. Et pour toute commande, le nom de domaine est offert la première année. Si vous avez déjà un site, dites-le-moi et je la retire.
