@@ -26,6 +26,8 @@
 | Cup'Cakes & Confettis (Grasse) | cupcakes-confettis-grasse.lovable.app | envoyé 14/11 | en attente |
 | Taxi David (Pégomas) | taxi-david-pegomas.lovable.app | envoyé 14/11 | en attente |
 | Dominique Duthoit, accordeur (St-Laurent-du-Var) | duthoit-accordeur-pianos.lovable.app | envoyé 14/11 | en attente |
+| Éric Lastavel, paysagiste (Valbonne) | lastavel-paysagiste-valbonne.lovable.app | à envoyer (vérifier fiche Google avant) | |
+| Nuance Décoration Peinture (Mougins) | nuance-peinture-mougins.lovable.app | à envoyer (vérifier fiche Google avant) | |
 
 Page d'envoi (boutons WhatsApp/SMS prêts) : https://envois-cap-entreprendre.lovable.app
 

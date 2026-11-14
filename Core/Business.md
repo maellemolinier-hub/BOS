@@ -14,3 +14,5 @@
 ## Outils
 - Make (scénario import Sheet → Brevo), Brevo, Google Sheets, Canva, Figma, Vercel/Netlify, Lovable (forfait, hébergement des démos). Brevo : liste « Démos sites - Contactés » pour le suivi des prospects contactés.
 - Offre commerciale (14/11/2026) : nom de domaine offert la première année pour toute commande de site. À inclure dans tous les messages de prospection.
+
+- Cibles prioritaires de la prospection sites (décision Maëlle, 14/11/2026) : BTP (maçon, peintre, plombier, électricien, couvreur, carreleur…) et jardiniers/paysagistes.
