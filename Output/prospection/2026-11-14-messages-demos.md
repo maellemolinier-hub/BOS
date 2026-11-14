@@ -112,3 +112,9 @@ https://wa.me/33617191446?text=Bonjour%20Claire%2C%20je%20suis%20Ma%C3%ABlle%2C%
 
 Bonjour Claire, je suis Maëlle, de Cap Entreprendre France. J'ai vu votre cabinet de sophrologie à Grasse sur les annuaires, mais je n'ai pas trouvé de site à votre nom. Je vous en ai préparé un, très calme, qui commence par un exercice de respiration : https://claire-masquelier-sophrologie.lovable.app
 C'est une maquette, gratuite et sans engagement. Et pour toute commande, le nom de domaine est offert la première année. Si vous avez déjà un site, dites-le-moi et je la retire.
+
+## Cannes Pressing — pas de WhatsApp : lien SMS
+sms:+33687145071?&body=Bonjour%2C%20je%20suis%20Ma%C3%ABlle%2C%20de%20Cap%20Entreprendre%20France.%20Je%20n%27ai%20pas%20trouv%C3%A9%20de%20site%20pour%20Cannes%20Pressing%2C%20boulevard%20Carnot.%20Je%20vous%20en%20ai%20pr%C3%A9par%C3%A9%20un%20%3A%20on%20y%20voit%20si%20vous%20%C3%AAtes%20ouvert%2C%20et%20le%20client%20vous%20pr%C3%A9vient%20de%20son%20d%C3%A9p%C3%B4t%20par%20SMS%20%3A%20https%3A%2F%2Fcannes-pressing.lovable.app%0AC%27est%20une%20maquette%2C%20gratuite%20et%20sans%20engagement.%20Et%20pour%20toute%20commande%2C%20le%20nom%20de%20domaine%20est%20offert%20la%20premi%C3%A8re%20ann%C3%A9e.%20Si%20vous%20avez%20d%C3%A9j%C3%A0%20un%20site%2C%20dites-le-moi%20et%20je%20la%20retire.
+
+Bonjour, je suis Maëlle, de Cap Entreprendre France. Je n'ai pas trouvé de site pour Cannes Pressing, boulevard Carnot. Je vous en ai préparé un : on y voit si vous êtes ouvert, et le client vous prévient de son dépôt par SMS : https://cannes-pressing.lovable.app
+C'est une maquette, gratuite et sans engagement. Et pour toute commande, le nom de domaine est offert la première année. Si vous avez déjà un site, dites-le-moi et je la retire.

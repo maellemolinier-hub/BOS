@@ -38,13 +38,13 @@ table{width:100%;border-collapse:collapse;font-family:'Space Mono';font-size:14.
 .fab{position:fixed;right:16px;bottom:16px;z-index:40;width:62px;height:62px;border-radius:50%;background:var(--wa);display:grid;place-items:center;box-shadow:0 10px 26px rgba(0,0,0,.35);border:3px solid #fff}.fab svg{width:32px;height:32px;fill:#fff}
 footer{max-width:560px;margin:18px auto 0;text-align:center;font-size:12.500px;color:#cfdcff}
 </style></head><body>
-<svg width="0" height="0" style="position:absolute"><symbol id="wa" viewBox="0 0 24 24"><path d="M12 2a10 10 0 0 0-8.600 15.100L2 22l5-1.300A10 10 0 1 0 12 2zm5.500 14.100c-.200.600-1.300 1.200-1.800 1.300-.500.100-1.100.100-1.800-.100-1.700-.500-3.400-1.700-4.800-3.500-1-1.300-1.600-2.600-1.600-3.700 0-1 .500-1.600.800-1.900.200-.200.500-.300.700-.300h.500c.200 0 .400 0 .600.500l.800 2c.100.200.100.400 0 .600l-.600.900c-.100.200-.200.300 0 .600.700 1.200 1.700 2.100 3 2.700.300.100.400.100.600-.100l.800-1c.200-.200.400-.200.600-.100l2 1c.200.100.400.200.400.400 0 .200 0 .500-.200.700z"/></symbol>
+<svg width="0" height="0" style="position:absolute"><symbol id="wa" viewBox="0 0 24 24"><path d="M4 4h16a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H9l-5 4v-4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2z"/></symbol>
 <symbol id="hg" viewBox="0 0 54 40"><path d="M27 12a4 4 0 1 0-4-4M27 12v5L5 32c-2 1.500-1 4 1.500 4h41c2.500 0 3.500-2.500 1.500-4L27 17" fill="none" stroke="currentColor" stroke-width="2.500" stroke-linecap="round" stroke-linejoin="round"/></symbol></svg>
 <div class="rail"></div><div class="hk"><svg><use href="#hg"/></svg><svg><use href="#hg"/></svg><svg><use href="#hg"/></svg></div>
 
 <div class="tk c"><div class="no">TICKET N° 075 · BD CARNOT · CANNES</div><h1>Cannes <span>Pressing</span></h1><p class="sub">Vos vêtements nettoyés, repassés, prêts à porter.</p>
 <div class="st" id="st"><i></i><span>Horaires du jour</span></div>
-<a class="btn wa" href="https://wa.me/33687145071?text=Bonjour%2C%20je%20souhaite%20d%C3%A9poser%20des%20v%C3%AAtements%20au%20pressing."><svg fill="currentColor"><use href="#wa"/></svg>Prévenir de mon passage</a><a class="btn o" href="tel:+33687145071">06 87 14 50 71</a></div>
+<a class="btn wa" href="sms:+33687145071?&body=Bonjour%2C%20je%20souhaite%20d%C3%A9poser%20des%20v%C3%AAtements%20au%20pressing."><svg fill="currentColor"><use href="#wa"/></svg>Prévenir de mon passage</a><a class="btn o" href="tel:+33687145071">06 87 14 50 71</a></div>
 
 <div class="tk"><div class="ph"></div><h2>Que déposez-vous ?</h2>
 <div id="ls">
@@ -65,13 +65,13 @@ footer{max-width:560px;margin:18px auto 0;text-align:center;font-size:12.500px;c
 <a class="btn" href="https://www.google.com/maps/search/?api=1&query=Cannes+Pressing+75+boulevard+Carnot+Cannes">Itinéraire</a>
 <div class="bc"></div><p class="no c">MERCI DE VOTRE VISITE</p></div>
 <footer>© Cannes Pressing — Maquette de démonstration, contenus à valider · Cap Entreprendre France</footer>
-<a class="fab" href="https://wa.me/33687145071?text=Bonjour%2C%20je%20souhaite%20d%C3%A9poser%20des%20v%C3%AAtements%20au%20pressing." aria-label="WhatsApp"><svg><use href="#wa"/></svg></a>
+<a class="fab" href="sms:+33687145071?&body=Bonjour%2C%20je%20souhaite%20d%C3%A9poser%20des%20v%C3%AAtements%20au%20pressing." aria-label="SMS"><svg><use href="#wa"/></svg></a>
 <script>
 var n=new Date(),d=n.getDay(),t=n.getHours()+n.getMinutes()/60,r=document.querySelector('#h tr[data-d="'+d+'"]');if(r)r.className='today';
 var op=(d>=1&&d<=5&&((t>=8.5&&t<12)||(t>=14&&t<18)))||(d==6&&t>=8.5&&t<12),s=document.getElementById('st');
 s.querySelector('span').textContent=op?'Ouvert en ce moment':(d>=1&&d<=5&&t>=12&&t<14?'Pause déjeuner · réouverture à 14h':'Fermé en ce moment');if(!op)s.classList.add('cl');
 var cb=document.querySelectorAll('#ls input');function up(){var l=[].filter.call(cb,function(c){return c.checked}).map(function(c){return c.value});
 document.getElementById('sum').textContent=l.length?'Votre dépôt : '+l.join(', '):'Cochez vos articles : le message se prépare.';
-document.getElementById('go').href='https://wa.me/33687145071?text='+encodeURIComponent('Bonjour, je souhaite déposer au pressing : '+(l.join(', ')||'des vêtements')+'. Je passerai le : ')}
+document.getElementById('go').href='sms:+33687145071?&body='+encodeURIComponent('Bonjour, je souhaite déposer au pressing : '+(l.join(', ')||'des vêtements')+'. Je passerai le : ')}
 [].forEach.call(cb,function(c){c.onchange=up});up();
 </script></body></html>
