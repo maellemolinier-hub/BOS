@@ -18,3 +18,19 @@ C'est une maquette, gratuite et sans engagement. Dites-moi ce que vous en pensez
 ## Sabine Flowers (fleuriste, Marché Forville) — WhatsApp ou SMS au 07 81 13 59 92
 Bonjour Sabine, je suis Maëlle, de Cap Entreprendre France. Je suis tombée sur votre Instagram et j'ai vu que vous n'aviez pas de site. Je vous en ai préparé un, où vos clients commandent leur bouquet par WhatsApp : https://sabine-flowers-cannes.vercel.app
 C'est une maquette, gratuite et sans engagement. Les photos sont des exemples, à remplacer par vos créations. Qu'en pensez-vous ?
+
+## Driving by Carine (monitrice indépendante, Cannes) — WhatsApp au 06 23 73 37 52
+Bonjour Carine, je suis Maëlle, de Cap Entreprendre France. J'ai vu vos très bons avis d'élèves, mais je n'ai pas trouvé de site à votre nom. Je vous en ai préparé un, avec la réservation de la première leçon par WhatsApp : https://driving-by-carine.vercel.app
+C'est une maquette, gratuite et sans engagement. Qu'en pensez-vous ? Si vous avez déjà un site, dites-le-moi et je la retire.
+
+## Nauti-Teck (ébénisterie marine, Cannes) — WhatsApp au 06 23 51 83 33
+Bonjour M. Turra, je suis Maëlle, de Cap Entreprendre France. Je cherchais un ébéniste de marine à Cannes et je n'ai pas trouvé de site pour Nauti-Teck. Je vous en ai préparé un, où les propriétaires envoient les photos de leur bateau pour un devis : https://nauti-teck-cannes.vercel.app
+C'est une maquette, gratuite et sans engagement. Les photos sont des exemples, à remplacer par vos chantiers. Si vous avez déjà un site, dites-le-moi et je la retire.
+
+## Relics Antiquités (brocante, Cannes) — WhatsApp au 06 11 68 23 17
+Bonjour, je suis Maëlle, de Cap Entreprendre France. J'ai vu votre boutique rue de la Miséricorde sur les annuaires, mais pas de site à vous. Je vous en ai préparé un, où les gens vous envoient les photos de ce qu'ils veulent vendre : https://relics-antiquites-cannes.vercel.app
+C'est une maquette, gratuite et sans engagement. Si vous avez déjà un site, dites-le-moi et je la retire.
+
+## By Caroline Céramiste (Vallauris) — WhatsApp au 06 95 73 79 79
+Bonjour Caroline, je suis Maëlle, de Cap Entreprendre France. J'ai découvert votre travail sur Instagram et sur le site de l'office de tourisme de Vallauris, mais je n'ai pas trouvé de site à vous. Je vous en ai préparé un : https://caroline-ceramiste.vercel.app
+C'est une maquette, gratuite et sans engagement. Les photos sont des exemples, à remplacer par vos pièces. Si vous avez déjà un site, dites-le-moi et je la retire.
