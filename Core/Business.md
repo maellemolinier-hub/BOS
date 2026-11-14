@@ -13,3 +13,4 @@
 
 ## Outils
 - Make (scénario import Sheet → Brevo), Brevo, Google Sheets, Canva, Figma, Vercel/Netlify.
+- Offre commerciale (14/11/2026) : nom de domaine offert pour toute commande de site. À inclure dans tous les messages de prospection.
