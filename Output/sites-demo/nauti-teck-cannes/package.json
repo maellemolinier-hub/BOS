@@ -1,0 +1,8 @@
+{
+ "name": "nauti-teck-cannes",
+ "private": true,
+ "type": "module",
+ "dependencies": {
+  "sharp": "^0.33.5"
+ }
+}
