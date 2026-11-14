@@ -28,6 +28,8 @@ a{color:inherit}.w{max-width:1140px;margin:auto;padding:0 22px}
 .stamp{width:190px;height:190px;border:5px double var(--r);border-radius:50%;color:var(--r);display:grid;place-items:center;text-align:center;transform:rotate(-12deg);font-weight:700;letter-spacing:.14em;text-transform:uppercase;font-size:14px;line-height:1.5;margin:0 auto 6px;opacity:.9}
 .stamp b{display:block;font-family:'Abril Fatface';font-weight:400;font-size:34px;letter-spacing:0;line-height:1}
 .note{background:#fff9e8;border:1px solid var(--i);padding:18px 20px;transform:rotate(1.500deg);box-shadow:5px 6px 0 rgba(27,24,21,.16);font-size:15.500px}
+.shot{border:1px solid var(--i);padding:10px 10px 34px;background:#fffdf6;box-shadow:6px 7px 0 rgba(27,24,21,.16);transform:rotate(1.500deg);position:relative}.shot i{display:block;aspect-ratio:4/3;background:var(--p2) center/cover}.shot .stamp{position:absolute;right:-22px;top:-34px;width:130px;height:130px;font-size:10.500px;background:rgba(243,236,221,.92);margin:0}.shot .stamp b{font-size:24px}.shot em{position:absolute;left:0;right:0;bottom:8px;text-align:center;font-size:13px;font-style:italic}
+.bt{display:grid;grid-template-columns:1fr 1fr;gap:44px;align-items:center}.bt .big{font-size:21px;line-height:1.500}.bt .big:first-letter{font-family:"Abril Fatface";font-size:74px;float:left;line-height:.8;padding:8px 10px 0 0;color:var(--r)}.bt ul{list-style:none;margin-top:20px}.bt li{padding:9px 0;border-bottom:1px dashed var(--i)}.bt li:before{content:"✦ ";color:var(--r)}.tall{aspect-ratio:4/5;background:var(--p2) url(img/still.jpg) center/cover;border:1px solid var(--i);box-shadow:-7px 8px 0 var(--r)}.dl{aspect-ratio:5/4;background:#333 url(img/delivery.jpg) center/cover;border:2px solid var(--p);margin-bottom:26px}
 .note b{display:block;text-transform:uppercase;letter-spacing:.14em;font-size:12.500px;color:var(--r);margin-bottom:4px}
 section{padding:90px 0 0}
 .h{display:flex;align-items:baseline;gap:22px;margin-bottom:34px}.h:after{content:"";flex:1;border-top:3px double var(--i);transform:translateY(-8px)}
@@ -56,7 +58,7 @@ h2{font-size:clamp(38px,5.6vw,70px)}
 .map{min-height:440px;position:relative;background:var(--p2);border-left:2px solid var(--i)}.map iframe{position:absolute;inset:0;width:100%;height:100%;border:0;filter:grayscale(1) sepia(.35) contrast(.95)}
 footer{margin-top:90px;border-top:6px double var(--i);padding:30px 0 110px;text-align:center;font-size:13px;color:var(--m)}
 .fab{position:fixed;right:16px;bottom:16px;z-index:40;width:62px;height:62px;border-radius:50%;background:var(--wa);display:grid;place-items:center;box-shadow:0 10px 26px rgba(0,0,0,.3);border:3px solid #fff}.fab svg{width:32px;height:32px;fill:#fff}
-@media(max-width:900px){.hero{grid-template-columns:1fr}.hero .l{padding:40px 0;border-right:0;border-bottom:1px solid var(--i)}.hero .rr{padding:40px 0}.cols{columns:1}.cards{grid-template-columns:1fr;gap:30px}.sell .g,.info{grid-template-columns:1fr;gap:36px}.info{gap:0}.map{border-left:0;border-top:2px solid var(--i);min-height:300px}.tick{grid-template-columns:1fr 1fr}.tick div:nth-child(2){border-right:0}.tick div:nth-child(-n+2){border-bottom:2px dashed var(--i)}section{padding-top:70px}.sell{margin-top:70px;padding:66px 0}.menu a{margin:0 8px;line-height:2}.info dl{grid-template-columns:1fr;gap:0}.info dd{margin-bottom:12px}.h{gap:12px}}
+@media(max-width:900px){.bt{grid-template-columns:1fr;gap:30px}.shot{margin:14px 20px 0 6px}.shot .stamp{right:-16px;width:104px;height:104px;font-size:9px}.shot .stamp b{font-size:19px}.hero{grid-template-columns:1fr}.hero .l{padding:40px 0;border-right:0;border-bottom:1px solid var(--i)}.hero .rr{padding:40px 0}.cols{columns:1}.cards{grid-template-columns:1fr;gap:30px}.sell .g,.info{grid-template-columns:1fr;gap:36px}.info{gap:0}.map{border-left:0;border-top:2px solid var(--i);min-height:300px}.tick{grid-template-columns:1fr 1fr}.tick div:nth-child(2){border-right:0}.tick div:nth-child(-n+2){border-bottom:2px dashed var(--i)}section{padding-top:70px}.sell{margin-top:70px;padding:66px 0}.menu a{margin:0 8px;line-height:2}.info dl{grid-template-columns:1fr;gap:0}.info dd{margin-bottom:12px}.h{gap:12px}}
 </style></head><body>
 <svg width="0" height="0" style="position:absolute"><symbol id="wa" viewBox="0 0 24 24"><path d="M12 2a10 10 0 0 0-8.600 15.100L2 22l5-1.300A10 10 0 1 0 12 2zm5.500 14.100c-.200.600-1.300 1.200-1.800 1.300-.500.100-1.100.100-1.800-.100-1.700-.500-3.400-1.700-4.800-3.500-1-1.300-1.600-2.600-1.600-3.700 0-1 .500-1.600.800-1.900.200-.200.500-.300.700-.300h.500c.200 0 .400 0 .600.500l.800 2c.100.200.100.400 0 .600l-.600.900c-.100.200-.200.300 0 .600.700 1.200 1.700 2.100 3 2.700.300.100.400.100.600-.100l.800-1c.200-.200.400-.200.600-.100l2 1c.200.100.400.200.400.400 0 .200 0 .500-.200.700z"/></symbol></svg>
 <div class="top"><div class="w"><span>Cannes · quartier Forville</span><span>Achat — Vente — Livraison</span><span>06 11 68 23 17</span></div></div>
@@ -66,26 +68,23 @@ footer{margin-top:90px;border-top:6px double var(--i);padding:30px 0 110px;text-
 <div class="w"><div class="hero"><div class="l rv"><h1>On chine.<br>On achète.<br><span>On vend.</span></h1>
 <p>Une boutique remplie du sol au plafond, rue de la Miséricorde à Cannes. Meubles, miroirs, tapis, luminaires et objets d'autrefois : venez fouiller.</p>
 <div class="cta"><a class="btn wa" href="https://wa.me/33611682317?text=Bonjour%2C%20je%20cherche%20un%20objet%20en%20particulier%20%3A%20"><svg fill="currentColor"><use href="#wa"/></svg>Demander un objet</a><a class="btn o" href="tel:+33611682317">Appeler</a></div></div>
-<div class="rr rv"><div class="stamp"><span>Achat<b>&amp;</b>Vente<br>depuis toujours</span></div>
-<div class="note"><b>Avis aux chineurs</b>Le stock change chaque semaine. Si vous cherchez une pièce précise, écrivez-nous : on vous prévient quand elle arrive.</div></div></div></div>
+<div class="rr rv"><div class="shot"><i style="background-image:url(img/shop.jpg)"></i><div class="stamp"><span>Achat<b>&amp;</b>Vente</span></div><em>La boutique, rue de la Miséricorde</em></div></div></div></div></div>
 
 <section id="boutique"><div class="w"><div class="h rv"><h2>La boutique</h2></div>
-<div class="cols rv"><p>Chez Relics, on ne range pas par époque ni par style : on empile, on accroche, on entasse, et c'est comme ça qu'on fait les plus belles découvertes. Un miroir doré derrière une pile de tapis, une suspension des années 70 au-dessus d'une commode ancienne.</p>
-<p>La boutique achète et vend toute l'année : mobilier rétro et vintage, miroirs, tapis, luminaires, tableaux, vaisselle, objets de décoration et petites curiosités. Chaque pièce est choisie, nettoyée et prête à repartir chez vous.</p>
-<p>Vous hésitez ? Le patron connaît l'histoire de chaque objet et vous dira ce qu'il vaut vraiment. Et si la pièce est trop lourde ou trop fragile pour vos bras, elle peut vous être livrée, soigneusement emballée.</p></div></div></section>
+<div class="bt rv"><div><p class="big">Chez Relics, on empile, on accroche, on entasse. C'est comme ça qu'on fait les plus belles découvertes.</p><ul><li>Mobilier rétro et vintage</li><li>Miroirs, tapis, luminaires</li><li>Tableaux, vaisselle, curiosités</li><li>Livraison possible, emballage soigné</li></ul></div><div class="tall"></div></div></div></section>
 
 <section id="trouvailles"><div class="w"><div class="h rv"><h2>Les trouvailles</h2></div>
 <div class="cards rv">
-<div class="cd"><small>Luminaires</small><h3>Suspensions & lampes</h3><p>Globes en verre des années 70, lampes de bureau, appliques et lustres anciens.</p></div>
-<div class="cd"><small>Miroirs</small><h3>Dorés, sculptés, biseautés</h3><p>Du miroir de style Régence au grand trumeau de cheminée.</p></div>
-<div class="cd"><small>Mobilier</small><h3>Rétro & vintage</h3><p>Commodes, chevets, chaises, tables d'appoint, meubles de métier.</p></div>
-<div class="cd"><small>Tapis</small><h3>Laine & kilims</h3><p>Tapis anciens et vintage, de toutes tailles, pour réchauffer une pièce.</p></div>
-<div class="cd"><small>Décoration</small><h3>Tableaux & cadres</h3><p>Huiles, gravures, affiches anciennes et cadres en bois doré.</p></div>
-<div class="cd"><small>Curiosités</small><h3>Objets insolites</h3><p>Fontes anciennes, objets religieux, enseignes, pièces de cabinet de curiosités.</p></div></div></div></section>
+<div class="cd"><small>Luminaires</small><h3>Suspensions & lampes</h3><p>Globes années 70, lustres, appliques.</p></div>
+<div class="cd"><small>Miroirs</small><h3>Dorés, sculptés, biseautés</h3><p>Du style Régence au grand trumeau.</p></div>
+<div class="cd"><small>Mobilier</small><h3>Rétro & vintage</h3><p>Commodes, chaises, meubles de métier.</p></div>
+<div class="cd"><small>Tapis</small><h3>Laine & kilims</h3><p>Anciens et vintage, toutes tailles.</p></div>
+<div class="cd"><small>Décoration</small><h3>Tableaux & cadres</h3><p>Huiles, gravures, bois doré.</p></div>
+<div class="cd"><small>Curiosités</small><h3>Objets insolites</h3><p>Fontes, enseignes, pièces de cabinet.</p></div></div></div></section>
 
 <div class="sell" id="vendre"><div class="w g"><div class="rv"><h2>Vous videz une maison ? <span>On rachète.</span></h2><p style="margin:22px 0 30px;font-size:18px;max-width:480px">Succession, déménagement, grenier à débarrasser : envoyez quelques photos, on vous dit ce qui nous intéresse.</p>
 <a class="btn wa" href="https://wa.me/33611682317?text=Bonjour%2C%20j%27ai%20des%20objets%20%C3%A0%20vendre.%20Je%20vous%20envoie%20les%20photos."><svg fill="currentColor"><use href="#wa"/></svg>Envoyer mes photos</a></div>
-<ol class="rv"><li>Photographiez les meubles et objets à vendre</li><li>Envoyez les photos sur WhatsApp, avec votre ville</li><li>On vous répond avec une proposition</li><li>On se déplace et on enlève si l'affaire est conclue</li></ol></div></div>
+<div class="rv"><div class="dl"></div><ol><li>Photographiez les meubles et objets à vendre</li><li>Envoyez les photos sur WhatsApp, avec votre ville</li><li>On vous répond avec une proposition</li><li>On se déplace et on enlève si l'affaire est conclue</li></ol></div></div></div>
 
 <section><div class="w rv"><div class="tick"><div><b>Achat</b><span>Au détail ou en lot</span></div><div><b>Vente</b><span>En boutique</span></div><div><b>Livraison</b><span>Emballage soigné</span></div><div><b>Conseil</b><span>Par un passionné</span></div></div></div></section>
 
