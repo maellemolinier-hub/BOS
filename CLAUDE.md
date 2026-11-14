@@ -237,3 +237,4 @@ Répondre dans la même langue que l'entrepreneur utilise. Par défaut en franç
 
 - **Prospection « sans site » : vérifier avant de construire.** Les listes de prospects peuvent être fausses ou dépassées (un prospect marqué « sans site » en avait déjà un). Avant de créer une démo, chercher activement un site existant (nom + ville, lien dans la bio Instagram/Facebook, fiche Google). Si la vérification est impossible, le dire clairement à l'entrepreneur et lui demander de regarder la fiche Google Maps avant tout envoi. Les fiches « réseaux sociaux uniquement » sont les plus à risque : le site est souvent dans la bio.
 
+- **Sites de démo : des photos et peu de texte.** Maëlle veut des sites visuels. Chaque démo doit avoir plusieurs photos adaptées au métier et des textes courts (une phrase par bloc). Pas d'effets typographiques fragiles (lettres à contours creux, polices étirées, tout en majuscules) : ils s'affichent mal sur téléphone.
