@@ -1,0 +1,8 @@
+{
+ "name": "claire-masquelier-sophrologie",
+ "private": true,
+ "type": "module",
+ "dependencies": {
+  "sharp": "^0.33.5"
+ }
+}
