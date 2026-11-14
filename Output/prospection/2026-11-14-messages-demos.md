@@ -166,3 +166,25 @@ https://wa.me/33627262073?text=Bonjour%2C%20je%20suis%20Ma%C3%ABlle%2C%20de%20Ca
 
 Bonjour, je suis Maëlle, de Cap Entreprendre France. Je cherchais un peintre à Mougins et je n'ai pas trouvé de site pour Nuance Décoration Peinture. Je vous en ai préparé un, où vos clients essaient une couleur sur un mur et demandent leur devis : https://nuance-peinture-mougins.lovable.app
 C'est une maquette, gratuite et sans engagement. Et pour toute commande, le nom de domaine est offert la première année. Si vous avez déjà un site, dites-le-moi et je la retire.
+
+
+# Version avec lien agenda (Calendly) — 14/11
+
+## Éric Lastavel
+https://wa.me/33663783430?text=Bonjour%20M.%20Lastavel%2C%20je%20suis%20Ma%C3%ABlle%2C%20de%20Cap%20Entreprendre%20France.%20Je%20cherchais%20un%20paysagiste%20%C3%A0%20Valbonne%20et%20je%20n%27ai%20pas%20trouv%C3%A9%20de%20site%20%C3%A0%20votre%20nom.%20Je%20vous%20en%20ai%20pr%C3%A9par%C3%A9%20un%2C%20avec%20un%20calendrier%20qui%20montre%20%C3%A0%20vos%20clients%20ce%20que%20leur%20jardin%20demande%20chaque%20mois%20%3A%20https%3A%2F%2Flastavel-paysagiste-valbonne.lovable.app%0AC%27est%20une%20maquette%2C%20gratuite%20et%20sans%20engagement.%20Et%20pour%20toute%20commande%2C%20le%20nom%20de%20domaine%20est%20offert%20la%20premi%C3%A8re%20ann%C3%A9e.%0APour%20en%20parler%2015%20minutes%2C%20choisissez%20un%20cr%C3%A9neau%20ici%20%3A%20https%3A%2F%2Fcalendly.com%2Fmaelle-molinier%2Fvotre-site-internet-echange-de-15-min%0ASi%20vous%20avez%20d%C3%A9j%C3%A0%20un%20site%2C%20dites-le-moi%20et%20je%20la%20retire.
+
+Bonjour M. Lastavel, je suis Maëlle, de Cap Entreprendre France. Je cherchais un paysagiste à Valbonne et je n'ai pas trouvé de site à votre nom. Je vous en ai préparé un, avec un calendrier qui montre à vos clients ce que leur jardin demande chaque mois : https://lastavel-paysagiste-valbonne.lovable.app
+C'est une maquette, gratuite et sans engagement. Et pour toute commande, le nom de domaine est offert la première année.
+Pour en parler 15 minutes, choisissez un créneau ici : https://calendly.com/maelle-molinier/votre-site-internet-echange-de-15-min
+Si vous avez déjà un site, dites-le-moi et je la retire.
+
+## Nuance Décoration Peinture
+https://wa.me/33627262073?text=Bonjour%2C%20je%20suis%20Ma%C3%ABlle%2C%20de%20Cap%20Entreprendre%20France.%20Je%20cherchais%20un%20peintre%20%C3%A0%20Mougins%20et%20je%20n%27ai%20pas%20trouv%C3%A9%20de%20site%20pour%20Nuance%20D%C3%A9coration%20Peinture.%20Je%20vous%20en%20ai%20pr%C3%A9par%C3%A9%20un%2C%20o%C3%B9%20vos%20clients%20essaient%20une%20couleur%20sur%20un%20mur%20et%20demandent%20leur%20devis%20%3A%20https%3A%2F%2Fnuance-peinture-mougins.lovable.app%0AC%27est%20une%20maquette%2C%20gratuite%20et%20sans%20engagement.%20Et%20pour%20toute%20commande%2C%20le%20nom%20de%20domaine%20est%20offert%20la%20premi%C3%A8re%20ann%C3%A9e.%0APour%20en%20parler%2015%20minutes%2C%20choisissez%20un%20cr%C3%A9neau%20ici%20%3A%20https%3A%2F%2Fcalendly.com%2Fmaelle-molinier%2Fvotre-site-internet-echange-de-15-min%0ASi%20vous%20avez%20d%C3%A9j%C3%A0%20un%20site%2C%20dites-le-moi%20et%20je%20la%20retire.
+
+Bonjour, je suis Maëlle, de Cap Entreprendre France. Je cherchais un peintre à Mougins et je n'ai pas trouvé de site pour Nuance Décoration Peinture. Je vous en ai préparé un, où vos clients essaient une couleur sur un mur et demandent leur devis : https://nuance-peinture-mougins.lovable.app
+C'est une maquette, gratuite et sans engagement. Et pour toute commande, le nom de domaine est offert la première année.
+Pour en parler 15 minutes, choisissez un créneau ici : https://calendly.com/maelle-molinier/votre-site-internet-echange-de-15-min
+Si vous avez déjà un site, dites-le-moi et je la retire.
+
+## Relance (à envoyer 3 jours après le premier message, sans réponse)
+Bonjour, c'est Maëlle, de Cap Entreprendre France. Avez-vous pu regarder la maquette de site que je vous ai envoyée ? Si vous préférez en parler de vive voix, vous pouvez choisir un créneau de 15 minutes ici, je vous appelle : https://calendly.com/maelle-molinier/votre-site-internet-echange-de-15-min

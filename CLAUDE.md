@@ -240,3 +240,5 @@ Répondre dans la même langue que l'entrepreneur utilise. Par défaut en franç
 - **Sites de démo : des photos et peu de texte.** Maëlle veut des sites visuels. Chaque démo doit avoir plusieurs photos adaptées au métier et des textes courts (une phrase par bloc). Pas d'effets typographiques fragiles (lettres à contours creux, polices étirées, tout en majuscules) : ils s'affichent mal sur téléphone.
 
 - **Pas de WhatsApp → lien SMS.** Quand un prospect n'a pas WhatsApp, donner à Maëlle un lien SMS prêt à envoyer (`sms:+33…?&body=…`) à la place du lien wa.me, et mettre des boutons SMS (pas WhatsApp) sur son site de démo.
+
+- **Lien agenda dans chaque message de prospection.** Ajouter le lien Calendly de Maëlle (« Pour en parler 15 minutes, choisissez un créneau ici : https://calendly.com/maelle-molinier/votre-site-internet-echange-de-15-min ») dans tous les messages et relances : certains prospects préfèrent réserver plutôt qu'appeler.
