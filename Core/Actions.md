@@ -17,9 +17,9 @@
 | A.C.E. Ébénisterie | ace-ebenisterie.vercel.app | à appeler (fixe) | |
 | Sabine Flowers | sabine-flowers-cannes.vercel.app | NE PAS ENVOYER avant vérification de sabineflowers.fr | |
 | ASP Dépannage | asp-depannage-cannes.vercel.app (en ligne) | à envoyer | |
-| Transport Plouvier | transport-plouvier.vercel.app (prêt, publication en attente du quota Vercel) | à envoyer après publication | |
-| Toilettage SPA by Omatiti | spa-omatiti.vercel.app (prêt, publication en attente) | à envoyer après publication | |
-| Cannes Pressing | cannes-pressing.vercel.app (prêt, publication en attente) | à envoyer après publication | |
-| Claire Masquelier Sophrologie | claire-masquelier-sophrologie.vercel.app (prêt, publication en attente) | à envoyer après publication | |
+| Transport Plouvier | transport-plouvier.lovable.app (en ligne, Lovable) | à envoyer | |
+| Toilettage SPA by Omatiti | spa-omatiti.lovable.app (en ligne, Lovable) | à envoyer | |
+| Cannes Pressing | cannes-pressing.lovable.app (en ligne, Lovable) | à envoyer | |
+| Claire Masquelier Sophrologie | claire-masquelier-sophrologie.lovable.app (en ligne, Lovable) | à envoyer | |
 
 Prochaine action : relancer dans 3 jours ceux qui n'ont pas répondu.
