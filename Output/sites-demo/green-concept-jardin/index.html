@@ -85,7 +85,7 @@ footer .g{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:40px}footer h4{co
 <div class="hero"><div class="in2 rv"><div class="pill"><b></b>Paysagiste à Mouans-Sartoux</div>
 <h1>Un jardin <span>impeccable</span>, sans y passer vos week-ends.</h1>
 <p>Création, entretien et élagage pour les particuliers et les résidences du pays de Grasse et du bassin cannois.</p>
-<div class="cta"><a class="btn l" href="#devis">Demander un devis gratuit</a><a class="btn w2" href="tel:+33777822609">07 77 82 26 09</a></div></div></div>
+<div class="cta"><a class="btn l" href="#devis">Demander un devis gratuit</a><a class="btn w2" href="https://wa.me/33777822609?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20mon%20jardin.">WhatsApp</a><a class="btn w2" href="tel:+33777822609">07 77 82 26 09</a></div></div></div>
 <div class="strip rv"><div class="c">
 <div><span class="ic"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11.500A7 7 0 0 0 5 9.500C5 14.800 12 21 12 21z"/><circle cx="12" cy="9.500" r="2.500"/></svg></span><p><b>Visite et devis gratuits</b><span>On se déplace chez vous</span></p></div>
 <div><span class="ic"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3.500" y="5" width="17" height="15" rx="3"/><path d="M3.500 10h17M8 3v4M16 3v4"/></svg></span><p><b>À l'année ou ponctuel</b><span>Contrats d'entretien sur mesure</span></p></div>
@@ -107,7 +107,7 @@ footer .g{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:40px}footer h4{co
 
 <section id="devis"><div class="w"><div class="devis rv"><div><span class="tag">Devis gratuit</span><h2>Votre demande en 30 secondes.</h2><p>Touchez ce dont vous avez besoin : le message est prêt à partir, on vous rappelle pour fixer la visite.</p></div>
 <div class="box"><h3>De quoi avez-vous besoin ?</h3><div class="chips" id="chips"><button>Entretien régulier</button><button>Taille de haies</button><button>Élagage</button><button>Débroussaillage</button><button>Création de jardin</button><button>Arrosage</button><button>Gazon</button></div>
-<div class="sum" id="sum"></div><a class="btn" id="sms" href="sms:+33777822609">Envoyer ma demande par SMS</a><small>ou appelez le 07 77 82 26 09</small></div></div></div></section>
+<div class="sum" id="sum"></div><a class="btn" id="sms" href="https://wa.me/33777822609" style="background:#25d366;color:#06331a">Envoyer ma demande sur WhatsApp</a><small>ou appelez le 07 77 82 26 09</small></div></div></div></section>
 
 <section id="calendrier"><div class="w"><div class="rv"><span class="tag">Calendrier</span><h2>Votre jardin, mois par mois.</h2><p class="lead">Le bon geste au bon moment, sous le climat de la Côte d'Azur.</p></div>
 <div class="cal rv" id="cal"></div><div class="tip rv"><div class="mo" id="tm"></div><div><h3 id="tt"></h3><p id="tp"></p></div><a class="btn" href="#devis">Planifier</a></div></div></section>
@@ -122,11 +122,11 @@ footer .g{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:40px}footer h4{co
 <div><h4>Contact</h4><p>469 chemin du Plan<br>06370 Mouans-Sartoux<br><a href="tel:+33777822609">07 77 82 26 09</a></p></div>
 <div><h4>Suivre</h4><p><a href="https://instagram.com/green_concept06">Instagram @green_concept06</a></p></div></div>
 <div class="legal"><span>© Green Concept Jardin</span><span>Maquette de démonstration · contenus à valider — Cap Entreprendre France</span></div></div></footer>
-<div class="bar"><a class="btn" href="tel:+33777822609">Appeler</a><a class="btn l" href="#devis">Devis gratuit</a></div>
+<div class="bar"><a class="btn" href="tel:+33777822609">Appeler</a><a class="btn" href="https://wa.me/33777822609?text=Bonjour%2C%20je%20souhaite%20un%20devis%20pour%20mon%20jardin." style="background:#25d366;color:#06331a">WhatsApp</a></div>
 <script>
 var ch=[].slice.call(document.querySelectorAll('#chips button')),sum=document.getElementById('sum'),sms=document.getElementById('sms');
 function up(){var s=ch.filter(function(b){return b.classList.contains('on')}).map(function(b){return b.textContent});sum.textContent=s.length?'Votre demande : '+s.join(', '):"Sélectionnez une ou plusieurs prestations.";
-sms.href='sms:+33777822609?&body='+encodeURIComponent('Bonjour, je souhaite un devis pour : '+(s.join(', ')||'mon jardin')+'. Ma commune : ')}
+sms.href='https://wa.me/33777822609?text='+encodeURIComponent('Bonjour, je souhaite un devis pour : '+(s.join(', ')||'mon jardin')+'. Ma commune : ')}
 ch.forEach(function(b){b.onclick=function(){b.classList.toggle('on');up()}});up();
 var M=['Jan','Fév','Mars','Avr','Mai','Juin','Juil','Août','Sept','Oct','Nov','Déc'],T=[
 ['Taille des oliviers et des fruitiers',"La végétation est au repos : c'est le moment d'aérer et de structurer les arbres."],['Taille des oliviers et des fruitiers',"Dernière ligne droite avant la reprise de la végétation."],
