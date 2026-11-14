@@ -10,3 +10,4 @@
 - Messages de prospection rédigés pour les 3 démos → Output/prospection/2026-11-14-messages-demos.md. À envoyer par Maëlle.
 - 2 nouvelles démos en ligne, adaptées aux infos trouvées sur chaque commerce, WhatsApp intégré : https://star-dog-cannes.vercel.app · https://sabine-flowers-cannes.vercel.app. WhatsApp ajouté sur green-concept-jardin. Caroline Céramiste (Vallauris) : recherche faite, site en attente de photos (limite Figma atteinte). Déménageur JGS et Pressing Gambetta écartés : aucune info trouvée.
 - Prix conseillé à Maëlle : 990 € création + 39 €/mois, ou 0 € + 89 €/mois sur 12 mois.
+- Green Concept Jardin a répondu : il a déjà un site (info fausse dans la liste). Démo mise hors ligne (projet Vercel mis en pause, suppression définitive à confirmer par Maëlle), fichiers retirés. Règle ajoutée dans CLAUDE.md : vérifier l'absence de site avant de construire. Premier retour terrain : le message obtient une réponse.

@@ -1,8 +1,7 @@
 # Messages de prospection — démos du 14/11/2026
 
-## Green Concept Jardin — SMS au 07 77 82 26 09
-Bonjour, je suis Maëlle, de Cap Entreprendre France, à Mouans-Sartoux. J'ai vu que Green Concept Jardin n'avait pas de site internet, alors je vous en ai préparé un pour vous montrer : https://green-concept-jardin.vercel.app
-C'est une maquette, gratuite et sans engagement. Si elle vous plaît, on en parle 5 minutes ? Sinon dites-le-moi et je la retire.
+## Green Concept Jardin — ÉCARTÉ
+A répondu le 14/11 : il a déjà un site internet. Démo retirée, ne plus le contacter pour un site.
 
 ## Emmanuelle Couture — appel au 04 93 75 72 46 (ou passage à l'atelier)
 « Bonjour, je suis Maëlle, de Cap Entreprendre France, je suis de Mouans-Sartoux. Je vous appelle parce que j'ai cherché votre atelier sur internet et je n'ai pas trouvé de site. Du coup je vous en ai préparé un, pour vous montrer ce que ça donnerait. C'est gratuit à regarder et sans engagement. Je peux vous envoyer le lien sur votre portable ? »
