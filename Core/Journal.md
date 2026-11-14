@@ -8,3 +8,5 @@
 - Sites de démo refaits en version haut de gamme (retour Maëlle : « pas assez pro ») : menu, plus de photos, carte, FAQ, animations, version ordinateur. Avis Google abandonnés à sa demande.
 - Démos mises en ligne sur Vercel (compte de Maëlle, projets liés au dépôt BOS, non référencés) : https://emmanuelle-couture.vercel.app · https://ace-ebenisterie.vercel.app · https://green-concept-jardin.vercel.app. Pas encore envoyées aux commerçants. Un projet Netlify vide « emmanuelle-couture-demo » a été créé par erreur (à supprimer).
 - Messages de prospection rédigés pour les 3 démos → Output/prospection/2026-11-14-messages-demos.md. À envoyer par Maëlle.
+- 2 nouvelles démos en ligne, adaptées aux infos trouvées sur chaque commerce, WhatsApp intégré : https://star-dog-cannes.vercel.app · https://sabine-flowers-cannes.vercel.app. WhatsApp ajouté sur green-concept-jardin. Caroline Céramiste (Vallauris) : recherche faite, site en attente de photos (limite Figma atteinte). Déménageur JGS et Pressing Gambetta écartés : aucune info trouvée.
+- Prix conseillé à Maëlle : 990 € création + 39 €/mois, ou 0 € + 89 €/mois sur 12 mois.
