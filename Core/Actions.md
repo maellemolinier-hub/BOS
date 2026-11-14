@@ -21,5 +21,12 @@
 | Toilettage SPA by Omatiti | spa-omatiti.lovable.app (en ligne, Lovable) | à envoyer | |
 | Cannes Pressing | cannes-pressing.lovable.app (en ligne, Lovable) | à envoyer | |
 | Claire Masquelier Sophrologie | claire-masquelier-sophrologie.lovable.app (en ligne, Lovable) | à envoyer | |
+| Yaya Barber (Cannes) | yaya-barber-cannes.lovable.app | à envoyer (vérifier fiche Google avant) | |
+| L'Art des Ongles (La Bocca) | art-des-ongles-cannes.lovable.app | à envoyer (vérifier fiche Google avant) | |
+| Cup'Cakes & Confettis (Grasse) | cupcakes-confettis-grasse.lovable.app | à envoyer (vérifier bio Facebook avant) | |
+| Taxi David (Pégomas) | taxi-david-pegomas.lovable.app | à envoyer (vérification faible : un seul annuaire) | |
+| Dominique Duthoit, accordeur (St-Laurent-du-Var) | duthoit-accordeur-pianos.lovable.app | à envoyer (vérifier fiche Google avant) | |
+
+Page d'envoi (boutons WhatsApp/SMS prêts) : https://envois-cap-entreprendre.lovable.app
 
 Prochaine action : relancer dans 3 jours ceux qui n'ont pas répondu.
