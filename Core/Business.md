@@ -9,3 +9,6 @@
 ## Activités repérées (à confirmer)
 - Conseillère immobilière (Liberkeys, lien Facebook)
 - Offre IA pour commerces et restaurants (Capia Resto)
+
+## Décision 19/11/2026 — positionnement Instagram
+- Instagram = activité IA pour commerçants (restaurants et commerces de proximité, offre Capia Resto). L'immobilier sort d'Instagram, sans être abandonné.
