@@ -15,4 +15,4 @@ Aucun contact envoyé à ce jour. Brevo : 0 campagne. Canal proposé : appel + S
 CA : 0 €. 1 opportunité = test fictif.
 
 ## Outils
-Cerveau Central (20 onglets), 17 scénarios Make (4 actifs, 2 invalides), Brevo, HubSpot, Stripe, site cap-entreprendre-france.fr (3 pages).
+HubSpot (compte « cap entreprendre france », offre prise le 24/11, à configurer : fuseau US/Eastern et devise USD à corriger). Cerveau Central (20 onglets), 17 scénarios Make (4 actifs, 2 invalides), Brevo, HubSpot, Stripe, site cap-entreprendre-france.fr (3 pages).

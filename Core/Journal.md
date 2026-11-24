@@ -5,3 +5,4 @@
 - Bottleneck : aucune prospection envoyée.
 - Structure finalisée proposée (1 offre, 1 cible, 1 canal), en attente de validation.
 - Correction : ~130 cold emails + 18 démos trouvés ; bottleneck = canal/approche, pas absence de prospection.
+- 24/11 : Maëlle a pris l'offre HubSpot ; une autre session Claude la configure.
