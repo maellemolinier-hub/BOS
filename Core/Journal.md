@@ -7,3 +7,4 @@
 - Correction : ~130 cold emails + 18 démos trouvés ; bottleneck = canal/approche, pas absence de prospection.
 - 24/11 : Maëlle a pris l'offre HubSpot ; une autre session Claude la configure.
 - 24/11 : HubSpot = CRM unique. Make « Nettoyage HubSpot » désactivé ; onglets 01 CRM + 03 Devis masqués ; CSV d'import HubSpot générés (Output/). 399 prospects 06 sans téléphone.
+- 24/11 : Brevo abandonné → HubSpot Starter. 464 contacts Brevo (avec tél.) exportés en CSV ; scénario Make Sheet→Brevo désactivé. SMS : à envoyer depuis le téléphone (pas de SMS dans HubSpot Starter).
