@@ -11,6 +11,9 @@
 4. **Page offre sans prix ni CTA** ; CGV en brouillon.
 5. **Site faible** — 3 pages, 302 au lieu de 301, .com sans SSL.
 
+## Méta-problème (25/11)
+**Construire avant de vendre.** Maëlle prévoit de finaliser CAPIA, la dashboard, tous les assistants et la scalabilité AVANT de prospecter. Preuves : 4,5 mois de construction, 0 € de CA, 34 projets Lovable, 17 scénarios Make. Risque : construire un système complet pour un marché non validé.
+
 ## Historique
 | Date | Changement | Raison |
 |------|-----------|--------|

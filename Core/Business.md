@@ -1,8 +1,10 @@
 # Business — Cap Entreprendre France
 
 ## Offre (proposée, en attente de validation)
-- Entrée : Pack « Visible en 7 jours » 999 € (site + fiche Google)
-- Upsell J+30 : SEO + Contenu 390 €/mois
+- Pack 999 € = site + nom de domaine (décision Maëlle 25/11)
+- SEO + Contenu 390 €/mois : retiré (décision Maëlle 25/11)
+- Focus déclaré : CAPIA = assistant vocal orchestrateur des autres assistants, local, adaptable par métier, + dashboard
+- Site principal : hébergé via ChatGPT (pas Lovable)
 - Gelé : Assistants métier / agent vocal CAPIA (~2 500 € sur devis), CAPIA resto, app ImmoExpert
 
 ## Persona cible
