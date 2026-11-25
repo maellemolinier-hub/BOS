@@ -235,3 +235,4 @@ Répondre dans la même langue que l'entrepreneur utilise. Par défaut en franç
 
 ## Règles apprises
 - **Ne jamais affirmer « 0 action / 0 contact » sans avoir vérifié toutes les sources d'activité réelle** (e-mails envoyés, SMS/Brevo, Make, Drive, CRM). Les outils vides ne prouvent pas l'absence d'activité. (24/11/2026)
+- **Demander le CA et le nombre de clients à l'entrepreneur avant de conclure « 0 vente ».** Les ventes peuvent passer hors des outils connectés. (25/11/2026)

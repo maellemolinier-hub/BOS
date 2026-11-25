@@ -14,7 +14,7 @@ Artisans BTP + jardiniers du 06, créés depuis < 12 mois, sans site (liste Driv
 Aucun contact envoyé à ce jour. Brevo : 0 campagne. Canal proposé : appel + SMS, 20/jour.
 
 ## Finances
-CA : 0 €. 1 opportunité = test fictif.
+3 sites internet vendus et livrés (montants et canal à préciser). Paiements non passés par le Stripe suivi.
 
 ## Outils
 HubSpot (compte « cap entreprendre france », offre prise le 24/11, à configurer : fuseau US/Eastern et devise USD à corriger). Cerveau Central (20 onglets), 17 scénarios Make (4 actifs, 2 invalides), Brevo, HubSpot, Stripe, site cap-entreprendre-france.fr (3 pages).
