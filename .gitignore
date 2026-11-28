@@ -2,3 +2,6 @@
 *.tmp
 *.swp
 *~
+
+# Fichiers de contacts (données personnelles) : ne jamais versionner
+Output/*.csv
