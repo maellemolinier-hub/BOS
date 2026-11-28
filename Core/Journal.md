@@ -12,3 +12,4 @@
 - 25/11 : Maëlle : site sur ChatGPT ; Pack = site + domaine ; SEO retiré ; priorité CAPIA orchestrateur + dashboard avant prospection. BOS signale le risque « construire avant de vendre ».
 - 25/11 : correction — 3 sites internet déjà vendus et livrés. CRM + appel CAPIA prioritaire → scénario Make « CAPIA - Résultat appel vocal » réactivé.
 - 25/11 : CGV V3 créées (adresse, TVA 293 B, Pack = site + domaine). Scénario CAPIA corrigé : recherche contact par tél/e-mail, note HubSpot à chaque appel, affaire pipeline (rdv/devis/commande), textes Pack sans SEO, lien CGV V3.
+- 28/11 : import HubSpot via Make (scénario 8860546) : 863 contacts uniques.
