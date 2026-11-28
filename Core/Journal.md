@@ -13,3 +13,4 @@
 - 25/11 : correction — 3 sites internet déjà vendus et livrés. CRM + appel CAPIA prioritaire → scénario Make « CAPIA - Résultat appel vocal » réactivé.
 - 25/11 : CGV V3 créées (adresse, TVA 293 B, Pack = site + domaine). Scénario CAPIA corrigé : recherche contact par tél/e-mail, note HubSpot à chaque appel, affaire pipeline (rdv/devis/commande), textes Pack sans SEO, lien CGV V3.
 - 28/11 : import HubSpot via Make (scénario 8860546) : 863 contacts uniques.
+- 28/11 : complément de 188 prospects 06 importé (lecture tronquée à 400 lignes corrigée). HubSpot = 1 051 contacts. Brevo entièrement exporté (466 = 464 + 1 test + compte perso).
